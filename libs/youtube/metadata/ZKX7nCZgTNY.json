@@ -1,0 +1,276 @@
+{
+    "itemprop": [
+        {
+            "content": "A Reflection",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA Reflection \\xc2\\xb7 The CureSeventeen Seconds\\xe2\\x84\\x97 1980 Fiction Records Ltd.Released on: 2005-01-01Associated  Performer, ...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCKuG9-MGolUuWbEcoz5qijw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "ZKX7nCZgTNY",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M13S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,AW,BA,BE,BG,BH,BR,BY,CH,CO,CZ,DE,DK,DZ,EE,EG,ES,FI,FR,GB,GR,HK,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LT,LU,LV,MK,MQ,MX,MY,NC,NG,NL,NO,NZ,OM,PG,PL,PT,QA,RO,RS,RU,SA,SE,SG,SI,SK,TC,TH,TR,TW,UA,UY,VE,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "184267",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-08-17",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-08-17",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "A Reflection",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA Reflection \\xc2\\xb7 The CureSeventeen Seconds\\xe2\\x84\\x97 1980 Fiction Records Ltd.Released on: 2005-01-01Associated  Performer, ...",
+            "name": "description"
+        },
+        {
+            "content": "The Cure, \\xe3\\x82\\xb6\\xe3\\x82\\xad\\xe3\\x83\\xa5\\xe3\\x82\\xa2\\xe3\\x83\\xbc, \\xe3\\x82\\xb6\\xe3\\x83\\xbb\\xe3\\x82\\xad\\xe3\\x83\\xa5\\xe3\\x82\\xa2\\xe3\\x83\\xbc, Seventeen Seconds, A Reflection, \\xe3\\x83\\xaa\\xe3\\x83\\x95\\xe3\\x83\\xac\\xe3\\x82\\xaf\\xe3\\x82\\xb7\\xe3\\x83\\xa7\\xe3\\x83\\xb3",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ZKX7nCZgTNY",
+            "name": "twitter:url"
+        },
+        {
+            "content": "A Reflection",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA Reflection \\xc2\\xb7 The CureSeventeen Seconds\\xe2\\x84\\x97 1980 Fiction Records Ltd.Released on: 2005-01-01Associated  Performer, ...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/ZKX7nCZgTNY/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ZKX7nCZgTNY&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ZKX7nCZgTNY&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ZKX7nCZgTNY",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ZKX7nCZgTNY",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ZKX7nCZgTNY",
+            "property": "og:url"
+        },
+        {
+            "content": "A Reflection",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/ZKX7nCZgTNY/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA Reflection \\xc2\\xb7 The CureSeventeen Seconds\\xe2\\x84\\x97 1980 Fiction Records Ltd.Released on: 2005-01-01Associated  Performer, ...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ZKX7nCZgTNY&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ZKX7nCZgTNY&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=ZKX7nCZgTNY&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ZKX7nCZgTNY",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ZKX7nCZgTNY",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "The Cure",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb6\\xe3\\x82\\xad\\xe3\\x83\\xa5\\xe3\\x82\\xa2\\xe3\\x83\\xbc",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb6\\xe3\\x83\\xbb\\xe3\\x82\\xad\\xe3\\x83\\xa5\\xe3\\x82\\xa2\\xe3\\x83\\xbc",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Seventeen Seconds",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "A Reflection",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x83\\xaa\\xe3\\x83\\x95\\xe3\\x83\\xac\\xe3\\x82\\xaf\\xe3\\x82\\xb7\\xe3\\x83\\xa7\\xe3\\x83\\xb3",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

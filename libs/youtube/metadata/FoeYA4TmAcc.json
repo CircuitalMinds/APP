@@ -1,0 +1,364 @@
+{
+    "itemprop": [
+        {
+            "content": "Europe - I'll Cry For You",
+            "itemprop": "name"
+        },
+        {
+            "content": "Europe's official music video for 'I'll Cry For You'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeICFYAs featured on 1982-...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCnzCV_PxVZ-hsOrTy2NGxJw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "FoeYA4TmAcc",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M40S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KI,KM,KN,KP,KR,KW,KY,KZ,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TJ,TK,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "9373174",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2009-10-25",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2009-10-25",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Europe - I'll Cry For You",
+            "name": "title"
+        },
+        {
+            "content": "Europe's official music video for 'I'll Cry For You'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeICFYAs featured on 1982-...",
+            "name": "description"
+        },
+        {
+            "content": "europe live, acoustic, carrie, i'll cry for you, the final countdown, music, europe i'll cry for you live, legendado, instrumental, subtitulada en espanol, prisoners in paradise, vevo, europe i'll cry for you, europe official video, let the good times rock, rock the night, official, europe lyrics, download, europe i'll cry for you lyrics, open your heart, karaoke, remix, subtitulada, europe vevo, lyrics, audio, europe i'll cry for you acoustic",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FoeYA4TmAcc",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Europe - I'll Cry For You",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Europe's official music video for 'I'll Cry For You'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeICFYAs featured on 1982-...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/FoeYA4TmAcc/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FoeYA4TmAcc&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FoeYA4TmAcc&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FoeYA4TmAcc",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FoeYA4TmAcc",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FoeYA4TmAcc",
+            "property": "og:url"
+        },
+        {
+            "content": "Europe - I'll Cry For You",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/FoeYA4TmAcc/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Europe's official music video for 'I'll Cry For You'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeICFYAs featured on 1982-...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FoeYA4TmAcc&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FoeYA4TmAcc&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=FoeYA4TmAcc&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FoeYA4TmAcc",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FoeYA4TmAcc",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "europe live",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "acoustic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "carrie",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "i'll cry for you",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "the final countdown",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe i'll cry for you live",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "legendado",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "instrumental",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "subtitulada en espanol",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "prisoners in paradise",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "vevo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe i'll cry for you",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe official video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "let the good times rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rock the night",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "official",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "download",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe i'll cry for you lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "open your heart",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "karaoke",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "remix",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "subtitulada",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe vevo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "audio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "europe i'll cry for you acoustic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

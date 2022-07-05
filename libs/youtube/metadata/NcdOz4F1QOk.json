@@ -1,0 +1,260 @@
+{
+    "itemprop": [
+        {
+            "content": "Faschingskinder, Op. 382",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by RCA Red SealFaschingskinder, Op. 382 · Robert Stolz · Carl Michael Ziehrer · Berliner SymphonikerWiener Musik℗ vor 1975 BMG Entertainm...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCkERxRR2o7vP7D7YMkNWYTA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "NcdOz4F1QOk",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT6M15S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GF,GP,GR,GT,GU,HN,HR,HU,IL,IN,IS,IT,JO,JP,KE,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PL,PT,PY,QA,RO,RS,RU,SA,SE,SI,SK,SV,TC,TW,UA,UY,VE,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2048",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Faschingskinder, Op. 382",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by RCA Red SealFaschingskinder, Op. 382 · Robert Stolz · Carl Michael Ziehrer · Berliner SymphonikerWiener Musik℗ vor 1975 BMG Entertainm...",
+            "name": "description"
+        },
+        {
+            "content": "Robert Stolz 史托茲 Carl Michael Ziehrer Berliner Symphoniker Wiener Musik Faschingskinder, Op. 382",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=NcdOz4F1QOk",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Faschingskinder, Op. 382",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by RCA Red SealFaschingskinder, Op. 382 · Robert Stolz · Carl Michael Ziehrer · Berliner SymphonikerWiener Musik℗ vor 1975 BMG Entertainm...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/NcdOz4F1QOk/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=NcdOz4F1QOk&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=NcdOz4F1QOk&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=NcdOz4F1QOk",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/NcdOz4F1QOk",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=NcdOz4F1QOk",
+            "property": "og:url"
+        },
+        {
+            "content": "Faschingskinder, Op. 382",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/NcdOz4F1QOk/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by RCA Red SealFaschingskinder, Op. 382 · Robert Stolz · Carl Michael Ziehrer · Berliner SymphonikerWiener Musik℗ vor 1975 BMG Entertainm...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=NcdOz4F1QOk&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=NcdOz4F1QOk&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=NcdOz4F1QOk&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/NcdOz4F1QOk",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/NcdOz4F1QOk",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Robert Stolz 史托茲 Carl Michael Ziehrer Berliner Symphoniker Wiener Musik Faschingskinder",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Op. 382",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

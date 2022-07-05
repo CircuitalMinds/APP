@@ -1,0 +1,356 @@
+{
+    "itemprop": [
+        {
+            "content": "Kaotiko - Su falso mundo [Vi\\xc3\\xb1aRock 2016]",
+            "itemprop": "name"
+        },
+        {
+            "content": "",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCaC9bH-4iXWqR6spyLD6HMQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "nH5A2QCQ488",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M34S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "21234",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2016-05-01",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2016-05-01",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Kaotiko - Su falso mundo [Vi\\xc3\\xb1aRock 2016]",
+            "name": "title"
+        },
+        {
+            "content": "",
+            "name": "description"
+        },
+        {
+            "content": "kaotiko, vi\\xc3\\xb1arock, vi\\xc3\\xb1a, 2016, oh caroline, otra noche, adrenalina, preso 2023, chihuahua, directo, letra, codigo rock, sindicato del crimen, quien manda aqui, a quemarropa, rico deprimido, juerga, en el barrio de laton, psycho, su falso mundo, presa, paranoia, eh calling, fuera de juego, 2015, 2014",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=nH5A2QCQ488",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Kaotiko - Su falso mundo [Vi\\xc3\\xb1aRock 2016]",
+            "name": "twitter:title"
+        },
+        {
+            "content": "",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/nH5A2QCQ488/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=nH5A2QCQ488&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=nH5A2QCQ488&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=nH5A2QCQ488",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/nH5A2QCQ488",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=nH5A2QCQ488",
+            "property": "og:url"
+        },
+        {
+            "content": "Kaotiko - Su falso mundo [Vi\\xc3\\xb1aRock 2016]",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/nH5A2QCQ488/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=nH5A2QCQ488&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=nH5A2QCQ488&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=nH5A2QCQ488&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/nH5A2QCQ488",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/nH5A2QCQ488",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "kaotiko",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "vi\\xc3\\xb1arock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "vi\\xc3\\xb1a",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "2016",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "oh caroline",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "otra noche",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "adrenalina",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "preso 2023",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "chihuahua",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "directo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "letra",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "codigo rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "sindicato del crimen",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "quien manda aqui",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "a quemarropa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rico deprimido",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "juerga",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "en el barrio de laton",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "psycho",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "su falso mundo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "presa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "paranoia",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "eh calling",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "fuera de juego",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "2015",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "2014",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

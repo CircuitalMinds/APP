@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "Juegas al pal\\xc3\\xa9",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by DRO/EastWest SpainJuegas al pal\\xc3\\xa9 \\xc2\\xb7 Siniestro TotalCuando se come aqu\\xc3\\xad?\\xe2\\x84\\x97 1982 Dro East West S.A.Composer, Lyricist: M. CostasAuto-gener...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCrGq-k_s96Kd2BzOrcS7_AA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "e0FgX-mrgGY",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M26S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "7687",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2015-04-18",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2015-04-18",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Juegas al pal\\xc3\\xa9",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by DRO/EastWest SpainJuegas al pal\\xc3\\xa9 \\xc2\\xb7 Siniestro TotalCuando se come aqu\\xc3\\xad?\\xe2\\x84\\x97 1982 Dro East West S.A.Composer, Lyricist: M. CostasAuto-gener...",
+            "name": "description"
+        },
+        {
+            "content": "Siniestro Total, Cuando se come aqu\\xc3\\xad?, Juegas al pal\\xc3\\xa9",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=e0FgX-mrgGY",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Juegas al pal\\xc3\\xa9",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by DRO/EastWest SpainJuegas al pal\\xc3\\xa9 \\xc2\\xb7 Siniestro TotalCuando se come aqu\\xc3\\xad?\\xe2\\x84\\x97 1982 Dro East West S.A.Composer, Lyricist: M. CostasAuto-gener...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/e0FgX-mrgGY/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=e0FgX-mrgGY&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=e0FgX-mrgGY&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=e0FgX-mrgGY",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/e0FgX-mrgGY",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=e0FgX-mrgGY",
+            "property": "og:url"
+        },
+        {
+            "content": "Juegas al pal\\xc3\\xa9",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/e0FgX-mrgGY/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by DRO/EastWest SpainJuegas al pal\\xc3\\xa9 \\xc2\\xb7 Siniestro TotalCuando se come aqu\\xc3\\xad?\\xe2\\x84\\x97 1982 Dro East West S.A.Composer, Lyricist: M. CostasAuto-gener...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=e0FgX-mrgGY&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=e0FgX-mrgGY&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=e0FgX-mrgGY&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/e0FgX-mrgGY",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/e0FgX-mrgGY",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Siniestro Total",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Cuando se come aqu\\xc3\\xad?",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Juegas al pal\\xc3\\xa9",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

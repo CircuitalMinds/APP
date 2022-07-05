@@ -1,0 +1,256 @@
+{
+    "itemprop": [
+        {
+            "content": "Lou Reed - Perfect Day - Subtitulos Espa\\xc3\\xb1ol",
+            "itemprop": "name"
+        },
+        {
+            "content": "Una de las mejores canciones de Lou Reed. Originalmente estaba escrita como un poema para su novia.Los clips son de la pelicula Trainsportting 1996, Una de m...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCNR2zEHFmMl_iITp8FGMlKw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "I8Q7V4EBKiI",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M16S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "644669",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2015-02-27",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2015-02-27",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Film & Animation",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Lou Reed - Perfect Day - Subtitulos Espa\\xc3\\xb1ol",
+            "name": "title"
+        },
+        {
+            "content": "Una de las mejores canciones de Lou Reed. Originalmente estaba escrita como un poema para su novia.Los clips son de la pelicula Trainsportting 1996, Una de m...",
+            "name": "description"
+        },
+        {
+            "content": "video, compartir, tel\\xc3\\xa9fono con c\\xc3\\xa1mara, tel\\xc3\\xa9fono con video, gratuito, subir",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=I8Q7V4EBKiI",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Lou Reed - Perfect Day - Subtitulos Espa\\xc3\\xb1ol",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Una de las mejores canciones de Lou Reed. Originalmente estaba escrita como un poema para su novia.Los clips son de la pelicula Trainsportting 1996, Una de m...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/I8Q7V4EBKiI/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=I8Q7V4EBKiI&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=I8Q7V4EBKiI&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=I8Q7V4EBKiI",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/I8Q7V4EBKiI",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=I8Q7V4EBKiI",
+            "property": "og:url"
+        },
+        {
+            "content": "Lou Reed - Perfect Day - Subtitulos Espa\\xc3\\xb1ol",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/I8Q7V4EBKiI/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Una de las mejores canciones de Lou Reed. Originalmente estaba escrita como un poema para su novia.Los clips son de la pelicula Trainsportting 1996, Una de m...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=I8Q7V4EBKiI&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=I8Q7V4EBKiI&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=I8Q7V4EBKiI&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/I8Q7V4EBKiI",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/I8Q7V4EBKiI",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

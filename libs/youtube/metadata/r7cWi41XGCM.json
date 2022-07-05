@@ -1,0 +1,272 @@
+{
+    "itemprop": [
+        {
+            "content": "Angel Of Death",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAngel Of Death \\xc2\\xb7 SlayerReign In Blood\\xe2\\x84\\x97 1986 American Recordings, LLCReleased on: 1986-01-01Producer: Rick RubinPr...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC9S7S6SFgBenThCZC6qbMoQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "r7cWi41XGCM",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M52S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "CA,MX,US",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "5646302",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Angel Of Death",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAngel Of Death \\xc2\\xb7 SlayerReign In Blood\\xe2\\x84\\x97 1986 American Recordings, LLCReleased on: 1986-01-01Producer: Rick RubinPr...",
+            "name": "description"
+        },
+        {
+            "content": "Slayer, \\xe3\\x82\\xb9\\xe3\\x83\\xac\\xe3\\x82\\xa4\\xe3\\x83\\xa4\\xe3\\x83\\xbc, Reign In Blood, Angel Of Death, \\xe3\\x82\\xa8\\xe3\\x83\\xb3\\xe3\\x82\\xb8\\xe3\\x82\\xa7\\xe3\\x83\\xab\\xe3\\x83\\xbb\\xe3\\x82\\xaa\\xe3\\x83\\x96\\xe3\\x83\\xbb\\xe3\\x83\\x87\\xe3\\x82\\xb9",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=r7cWi41XGCM",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Angel Of Death",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAngel Of Death \\xc2\\xb7 SlayerReign In Blood\\xe2\\x84\\x97 1986 American Recordings, LLCReleased on: 1986-01-01Producer: Rick RubinPr...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/r7cWi41XGCM/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=r7cWi41XGCM&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=r7cWi41XGCM&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=r7cWi41XGCM",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/r7cWi41XGCM",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=r7cWi41XGCM",
+            "property": "og:url"
+        },
+        {
+            "content": "Angel Of Death",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/r7cWi41XGCM/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAngel Of Death \\xc2\\xb7 SlayerReign In Blood\\xe2\\x84\\x97 1986 American Recordings, LLCReleased on: 1986-01-01Producer: Rick RubinPr...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=r7cWi41XGCM&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=r7cWi41XGCM&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=r7cWi41XGCM&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/r7cWi41XGCM",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/r7cWi41XGCM",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Slayer",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb9\\xe3\\x83\\xac\\xe3\\x82\\xa4\\xe3\\x83\\xa4\\xe3\\x83\\xbc",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Reign In Blood",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Angel Of Death",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xa8\\xe3\\x83\\xb3\\xe3\\x82\\xb8\\xe3\\x82\\xa7\\xe3\\x83\\xab\\xe3\\x83\\xbb\\xe3\\x82\\xaa\\xe3\\x83\\x96\\xe3\\x83\\xbb\\xe3\\x83\\x87\\xe3\\x82\\xb9",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

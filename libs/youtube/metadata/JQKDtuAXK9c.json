@@ -1,0 +1,292 @@
+{
+    "itemprop": [
+        {
+            "content": "Golpe De Suerte",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by DH1MEDIAGolpe De Suerte \\xc2\\xb7 Tito Torbellino20 Corridos - Corridos Reales No Payasadas\\xe2\\x84\\x97 2014 OMG RECORDSReleased on: 2014-04-01Main Artis...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCzhR0SlDlhI5KPLieQyb6Hw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "JQKDtuAXK9c",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M59S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "605110",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2016-08-16",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2016-08-16",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Golpe De Suerte",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by DH1MEDIAGolpe De Suerte \\xc2\\xb7 Tito Torbellino20 Corridos - Corridos Reales No Payasadas\\xe2\\x84\\x97 2014 OMG RECORDSReleased on: 2014-04-01Main Artis...",
+            "name": "description"
+        },
+        {
+            "content": "Tito, Torbellino, 20, Corridos, Reales, No, Payasadas, Golpe, De, Suerte",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=JQKDtuAXK9c",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Golpe De Suerte",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by DH1MEDIAGolpe De Suerte \\xc2\\xb7 Tito Torbellino20 Corridos - Corridos Reales No Payasadas\\xe2\\x84\\x97 2014 OMG RECORDSReleased on: 2014-04-01Main Artis...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/JQKDtuAXK9c/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=JQKDtuAXK9c&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=JQKDtuAXK9c&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=JQKDtuAXK9c",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/JQKDtuAXK9c",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=JQKDtuAXK9c",
+            "property": "og:url"
+        },
+        {
+            "content": "Golpe De Suerte",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/JQKDtuAXK9c/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by DH1MEDIAGolpe De Suerte \\xc2\\xb7 Tito Torbellino20 Corridos - Corridos Reales No Payasadas\\xe2\\x84\\x97 2014 OMG RECORDSReleased on: 2014-04-01Main Artis...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=JQKDtuAXK9c&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=JQKDtuAXK9c&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=JQKDtuAXK9c&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/JQKDtuAXK9c",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/JQKDtuAXK9c",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Tito",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Torbellino",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "20",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Corridos",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Reales",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "No",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Payasadas",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Golpe",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "De",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Suerte",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

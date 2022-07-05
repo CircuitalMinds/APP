@@ -1,0 +1,320 @@
+{
+    "itemprop": [
+        {
+            "content": "coldplay - the escapist hidden track",
+            "itemprop": "name"
+        },
+        {
+            "content": "hidden track on the album viva la vida",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCfF0k7dndtooRI0MP4chLtg",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "SIo5-E1DmWs",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M49S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HM,HN,HR,HT,HU,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "229729",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2008-06-28",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2008-06-28",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "coldplay - the escapist hidden track",
+            "name": "title"
+        },
+        {
+            "content": "hidden track on the album viva la vida",
+            "name": "description"
+        },
+        {
+            "content": "hidden, track, viva, la, vida, the, escapist, coldplay, death, and, all, his, friends, jornyvanschaik, pop, world, music",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=SIo5-E1DmWs",
+            "name": "twitter:url"
+        },
+        {
+            "content": "coldplay - the escapist hidden track",
+            "name": "twitter:title"
+        },
+        {
+            "content": "hidden track on the album viva la vida",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/SIo5-E1DmWs/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=SIo5-E1DmWs&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=SIo5-E1DmWs&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=SIo5-E1DmWs",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/SIo5-E1DmWs",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=SIo5-E1DmWs",
+            "property": "og:url"
+        },
+        {
+            "content": "coldplay - the escapist hidden track",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/SIo5-E1DmWs/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "hidden track on the album viva la vida",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=SIo5-E1DmWs&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=SIo5-E1DmWs&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=SIo5-E1DmWs&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/SIo5-E1DmWs",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/SIo5-E1DmWs",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "hidden",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "track",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "viva",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "la",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "vida",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "the",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "escapist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "coldplay",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "death",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "and",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "all",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "his",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "friends",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "jornyvanschaik",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "pop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "world",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

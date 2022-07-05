@@ -1,0 +1,8 @@
+*env
+*site
+*__pycache__
+*jupyter
+*api
+*static
+*templates
+*venv

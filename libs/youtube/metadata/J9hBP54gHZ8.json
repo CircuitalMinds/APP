@@ -1,0 +1,304 @@
+{
+    "itemprop": [
+        {
+            "content": "Tchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupTchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse · Berliner Philharmoniker · Herbert von KarajanKarajan...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC18YWw4LNQ-Poo4DgdlUgCA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "J9hBP54gHZ8",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT6M31S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AR,AS,AT,AU,AW,BA,BE,BG,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,EC,EE,ES,FI,FR,GB,GF,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JP,KE,KR,KY,LI,LT,LU,LV,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,PA,PE,PF,PG,PH,PL,PT,PY,RO,RS,RU,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2274",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-12-12",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-12-12",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Tchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupTchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse · Berliner Philharmoniker · Herbert von KarajanKarajan...",
+            "name": "description"
+        },
+        {
+            "content": "Berliner Philharmoniker, ベルリンフィルハーモニーカンゲンガクダン, ベルリン・フィルハーモニー管弦楽団, 베를린 필하모닉, Herbert von Karajan, ヘルベルトフォンカラヤン, ヘルベルト・フォン・カラヤン, 卡拉杨, 卡拉楊, Karajan Festival, Valse, Tchaikovsky: エウゲニ・オネーギン - ワルツ, Tchaikovsky: 歌劇《エウゲニ・オネーギン》/ 第2幕 - ワルツ",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=J9hBP54gHZ8",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Tchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupTchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse · Berliner Philharmoniker · Herbert von KarajanKarajan...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/J9hBP54gHZ8/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=J9hBP54gHZ8&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=J9hBP54gHZ8&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=J9hBP54gHZ8",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/J9hBP54gHZ8",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=J9hBP54gHZ8",
+            "property": "og:url"
+        },
+        {
+            "content": "Tchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/J9hBP54gHZ8/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupTchaikovsky: Eugene Onegin, Op. 24, TH. 5 / Act II - Valse · Berliner Philharmoniker · Herbert von KarajanKarajan...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=J9hBP54gHZ8&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=J9hBP54gHZ8&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=J9hBP54gHZ8&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/J9hBP54gHZ8",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/J9hBP54gHZ8",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Berliner Philharmoniker",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ベルリンフィルハーモニーカンゲンガクダン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ベルリン・フィルハーモニー管弦楽団",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "베를린 필하모닉",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Herbert von Karajan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ヘルベルトフォンカラヤン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ヘルベルト・フォン・カラヤン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "卡拉杨",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "卡拉楊",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Karajan Festival",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Valse",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Tchaikovsky: エウゲニ・オネーギン - ワルツ",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Tchaikovsky: 歌劇《エウゲニ・オネーギン》/ 第2幕 - ワルツ",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

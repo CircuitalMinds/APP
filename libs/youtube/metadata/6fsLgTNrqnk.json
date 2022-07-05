@@ -1,0 +1,272 @@
+{
+    "itemprop": [
+        {
+            "content": "Action",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAction \\xc2\\xb7 Bireli LagreneInferno\\xe2\\x84\\x97 A Blue Note Records Release; \\xe2\\x84\\x97 1987 Capitol Records, LLCReleased on: 1987-01-01Pr...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCijzy0AVlGIh0VYL1avO5bQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "6fsLgTNrqnk",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M4S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2482",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2019-08-01",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2019-08-01",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Action",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAction \\xc2\\xb7 Bireli LagreneInferno\\xe2\\x84\\x97 A Blue Note Records Release; \\xe2\\x84\\x97 1987 Capitol Records, LLCReleased on: 1987-01-01Pr...",
+            "name": "description"
+        },
+        {
+            "content": "Bireli Lagrene, \\xe3\\x83\\x93\\xe3\\x83\\xac\\xe3\\x83\\xaa\\xe3\\x83\\xa9\\xe3\\x82\\xb0\\xe3\\x83\\xac\\xe3\\x83\\xbc\\xe3\\x83\\xb3, \\xe3\\x83\\x93\\xe3\\x83\\xac\\xe3\\x83\\xaa\\xe3\\x83\\xbb\\xe3\\x83\\xa9\\xe3\\x82\\xb0\\xe3\\x83\\xac\\xe3\\x83\\xbc\\xe3\\x83\\xb3, Inferno, Action",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=6fsLgTNrqnk",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Action",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAction \\xc2\\xb7 Bireli LagreneInferno\\xe2\\x84\\x97 A Blue Note Records Release; \\xe2\\x84\\x97 1987 Capitol Records, LLCReleased on: 1987-01-01Pr...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/6fsLgTNrqnk/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=6fsLgTNrqnk&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=6fsLgTNrqnk&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=6fsLgTNrqnk",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/6fsLgTNrqnk",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=6fsLgTNrqnk",
+            "property": "og:url"
+        },
+        {
+            "content": "Action",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/6fsLgTNrqnk/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupAction \\xc2\\xb7 Bireli LagreneInferno\\xe2\\x84\\x97 A Blue Note Records Release; \\xe2\\x84\\x97 1987 Capitol Records, LLCReleased on: 1987-01-01Pr...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=6fsLgTNrqnk&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=6fsLgTNrqnk&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=6fsLgTNrqnk&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/6fsLgTNrqnk",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/6fsLgTNrqnk",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Bireli Lagrene",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x83\\x93\\xe3\\x83\\xac\\xe3\\x83\\xaa\\xe3\\x83\\xa9\\xe3\\x82\\xb0\\xe3\\x83\\xac\\xe3\\x83\\xbc\\xe3\\x83\\xb3",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x83\\x93\\xe3\\x83\\xac\\xe3\\x83\\xaa\\xe3\\x83\\xbb\\xe3\\x83\\xa9\\xe3\\x82\\xb0\\xe3\\x83\\xac\\xe3\\x83\\xbc\\xe3\\x83\\xb3",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Inferno",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Action",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

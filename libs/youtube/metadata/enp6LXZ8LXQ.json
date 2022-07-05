@@ -1,0 +1,292 @@
+{
+    "itemprop": [
+        {
+            "content": "That's what i like about you - Ramones (Cover de The Romantics)",
+            "itemprop": "name"
+        },
+        {
+            "content": "un homenaje a las mujeres...que seriamos sin ellas...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCcTYVI5OmCJWut9bQAHQdWw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "enp6LXZ8LXQ",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M55S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AG,AI,AQ,AR,AS,AU,AW,BB,BD,BE,BL,BM,BN,BO,BQ,BR,BS,BT,BZ,CC,CK,CL,CO,CR,CU,CW,CX,DE,DM,DO,EC,FJ,FK,FM,GD,GF,GP,GS,GT,GU,GY,HK,HM,HN,HT,ID,IN,JM,JP,KH,KI,KN,KP,KR,KY,LA,LC,LK,LU,MF,MH,MM,MO,MP,MQ,MS,MV,MX,MY,NF,NI,NP,NR,NU,NZ,PA,PE,PG,PH,PK,PM,PN,PR,PW,PY,SB,SG,SR,SS,SV,SX,TC,TH,TK,TL,TO,TT,TV,TW,UM,US,UY,VC,VE,VG,VI,VN,VU,WS",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "64172",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2013-05-28",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2013-05-28",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "That's what i like about you - Ramones (Cover de The Romantics)",
+            "name": "title"
+        },
+        {
+            "content": "un homenaje a las mujeres...que seriamos sin ellas...",
+            "name": "description"
+        },
+        {
+            "content": "ramones, what i like about you, lo que me gusta de ti, mujeres, Rock Punk, bailar, Cover, subtitulos, The Romantics, Rock Music (Musical Genre)",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=enp6LXZ8LXQ",
+            "name": "twitter:url"
+        },
+        {
+            "content": "That's what i like about you - Ramones (Cover de The Romantics)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "un homenaje a las mujeres...que seriamos sin ellas...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/enp6LXZ8LXQ/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=enp6LXZ8LXQ&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=enp6LXZ8LXQ&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=enp6LXZ8LXQ",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/enp6LXZ8LXQ",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=enp6LXZ8LXQ",
+            "property": "og:url"
+        },
+        {
+            "content": "That's what i like about you - Ramones (Cover de The Romantics)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/enp6LXZ8LXQ/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "un homenaje a las mujeres...que seriamos sin ellas...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=enp6LXZ8LXQ&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=enp6LXZ8LXQ&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=enp6LXZ8LXQ&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/enp6LXZ8LXQ",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/enp6LXZ8LXQ",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "ramones",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "what i like about you",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lo que me gusta de ti",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "mujeres",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock Punk",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "bailar",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Cover",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "subtitulos",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "The Romantics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock Music (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

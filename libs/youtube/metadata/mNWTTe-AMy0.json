@@ -1,0 +1,272 @@
+{
+    "itemprop": [
+        {
+            "content": "Terrenal",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by IIP-DDSTerrenal \\xc2\\xb7 Mauricio Lopez SilvaLecciones para el Coraz\\xc3\\xb3n\\xe2\\x84\\x97 Mauricio Lopez SilvaReleased on: 2020-01-24Producer: Juli\\xc3\\xb3n \\xc3\\x81lvarez &...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCgKMcZXhI4Qi48Zo98LHBig",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "mNWTTe-AMy0",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M59S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "True",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "6011952",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2021-04-20",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2021-04-20",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Terrenal",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by IIP-DDSTerrenal \\xc2\\xb7 Mauricio Lopez SilvaLecciones para el Coraz\\xc3\\xb3n\\xe2\\x84\\x97 Mauricio Lopez SilvaReleased on: 2020-01-24Producer: Juli\\xc3\\xb3n \\xc3\\x81lvarez &...",
+            "name": "description"
+        },
+        {
+            "content": "Mauricio Lopez Silva, Lecciones para el Coraz\\xc3\\xb3n, Terrenal",
+            "name": "keywords"
+        },
+        {
+            "content": "noindex",
+            "name": "robots"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=mNWTTe-AMy0",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Terrenal",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by IIP-DDSTerrenal \\xc2\\xb7 Mauricio Lopez SilvaLecciones para el Coraz\\xc3\\xb3n\\xe2\\x84\\x97 Mauricio Lopez SilvaReleased on: 2020-01-24Producer: Juli\\xc3\\xb3n \\xc3\\x81lvarez &...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/mNWTTe-AMy0/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=mNWTTe-AMy0&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=mNWTTe-AMy0&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=mNWTTe-AMy0",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/mNWTTe-AMy0",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=mNWTTe-AMy0",
+            "property": "og:url"
+        },
+        {
+            "content": "Terrenal",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/mNWTTe-AMy0/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by IIP-DDSTerrenal \\xc2\\xb7 Mauricio Lopez SilvaLecciones para el Coraz\\xc3\\xb3n\\xe2\\x84\\x97 Mauricio Lopez SilvaReleased on: 2020-01-24Producer: Juli\\xc3\\xb3n \\xc3\\x81lvarez &...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=mNWTTe-AMy0&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=mNWTTe-AMy0&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=mNWTTe-AMy0&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/mNWTTe-AMy0",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/mNWTTe-AMy0",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Mauricio Lopez Silva",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Lecciones para el Coraz\\xc3\\xb3n",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Terrenal",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

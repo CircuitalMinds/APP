@@ -1,0 +1,31 @@
+{
+  "git": {
+    "url": "https://github.com/circuitalminds",
+    "repos": [
+      {
+        "name": "api",
+        "path": "./api"
+      },
+      {
+        "name": "app",
+        "path": "./app"
+      },
+      {
+        "name": "jupyter",
+        "path": "./jupyter"
+      },
+      {
+        "name": "circuitalminds.github.io",
+        "path": "./site"
+      },
+      {
+        "name": "templates",
+        "path": "./templates"
+      },
+      {
+        "name": "static",
+        "path": "./static"
+      }
+    ]
+  }
+}

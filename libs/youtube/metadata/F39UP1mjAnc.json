@@ -1,0 +1,280 @@
+{
+    "itemprop": [
+        {
+            "content": "The Misfits - Last Caress",
+            "itemprop": "name"
+        },
+        {
+            "content": "Last Caress, from The Misfits EP Beware (1980), set to some killer rock n roll dancing from the 1950s.  I love how Danzig sounds like a drunk Elvis...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCwv_Vz-kLuJTsVVyX1dm1PA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "F39UP1mjAnc",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT1M42S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "8095013",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2011-01-08",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2011-01-08",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "The Misfits - Last Caress",
+            "name": "title"
+        },
+        {
+            "content": "Last Caress, from The Misfits EP Beware (1980), set to some killer rock n roll dancing from the 1950s.  I love how Danzig sounds like a drunk Elvis...",
+            "name": "description"
+        },
+        {
+            "content": "Dean Champ, Last Caress (Musical Recording), Misfits (Musical Group), Horror Punk (Musical Genre), Rock And Roll (Musical Genre), rock and roll dancing, Guitar (Musical Instrument)",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F39UP1mjAnc",
+            "name": "twitter:url"
+        },
+        {
+            "content": "The Misfits - Last Caress",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Last Caress, from The Misfits EP Beware (1980), set to some killer rock n roll dancing from the 1950s.  I love how Danzig sounds like a drunk Elvis...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F39UP1mjAnc/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F39UP1mjAnc&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F39UP1mjAnc&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F39UP1mjAnc",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F39UP1mjAnc",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F39UP1mjAnc",
+            "property": "og:url"
+        },
+        {
+            "content": "The Misfits - Last Caress",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F39UP1mjAnc/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Last Caress, from The Misfits EP Beware (1980), set to some killer rock n roll dancing from the 1950s.  I love how Danzig sounds like a drunk Elvis...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F39UP1mjAnc&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F39UP1mjAnc&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=F39UP1mjAnc&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F39UP1mjAnc",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F39UP1mjAnc",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Dean Champ",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Last Caress (Musical Recording)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Misfits (Musical Group)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Horror Punk (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock And Roll (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rock and roll dancing",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Guitar (Musical Instrument)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "itemprop": [
+        {
+            "content": "Monk's Shop",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesMonk's Shop \\xc2\\xb7 Wes MontgomeryJazz for a Lazy Day\\xe2\\x84\\x97 2015 MMTReleased on: 2015-01-01Music Publisher: Copyright Cont...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCYs8ep9Xe3RQc3Oy4BWKNAw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "F3EeSoTUlfM",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M57S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2632",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2015-02-21",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2015-02-21",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Monk's Shop",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesMonk's Shop \\xc2\\xb7 Wes MontgomeryJazz for a Lazy Day\\xe2\\x84\\x97 2015 MMTReleased on: 2015-01-01Music Publisher: Copyright Cont...",
+            "name": "description"
+        },
+        {
+            "content": "Wes, Montgomery, Jazz, for, Lazy, Day, Monk's, Shop",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F3EeSoTUlfM",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Monk's Shop",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesMonk's Shop \\xc2\\xb7 Wes MontgomeryJazz for a Lazy Day\\xe2\\x84\\x97 2015 MMTReleased on: 2015-01-01Music Publisher: Copyright Cont...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F3EeSoTUlfM/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F3EeSoTUlfM&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F3EeSoTUlfM&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F3EeSoTUlfM",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F3EeSoTUlfM",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F3EeSoTUlfM",
+            "property": "og:url"
+        },
+        {
+            "content": "Monk's Shop",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F3EeSoTUlfM/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesMonk's Shop \\xc2\\xb7 Wes MontgomeryJazz for a Lazy Day\\xe2\\x84\\x97 2015 MMTReleased on: 2015-01-01Music Publisher: Copyright Cont...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F3EeSoTUlfM&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F3EeSoTUlfM&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=F3EeSoTUlfM&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F3EeSoTUlfM",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F3EeSoTUlfM",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Wes",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Montgomery",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Jazz",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "for",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Lazy",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Day",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Monk's",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Shop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

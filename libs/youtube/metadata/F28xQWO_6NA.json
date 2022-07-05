@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "De Muchas Cosas Tengo Miedo",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDe Muchas Cosas Tengo Miedo \\xc2\\xb7 Los BriosYo Se Que Te Acordaras\\xe2\\x84\\x97 1973 EMI Odeon SAICReleased on: 2005-01-01Associat...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCaSux9Ah1Hn7NQZlLDgs1Mw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "F28xQWO_6NA",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M41S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,UY,VE,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2164645",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2015-01-27",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2015-01-27",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "De Muchas Cosas Tengo Miedo",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDe Muchas Cosas Tengo Miedo \\xc2\\xb7 Los BriosYo Se Que Te Acordaras\\xe2\\x84\\x97 1973 EMI Odeon SAICReleased on: 2005-01-01Associat...",
+            "name": "description"
+        },
+        {
+            "content": "Los Brios, Yo Se Que Te Acordaras, De Muchas Cosas Tengo Miedo",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F28xQWO_6NA",
+            "name": "twitter:url"
+        },
+        {
+            "content": "De Muchas Cosas Tengo Miedo",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDe Muchas Cosas Tengo Miedo \\xc2\\xb7 Los BriosYo Se Que Te Acordaras\\xe2\\x84\\x97 1973 EMI Odeon SAICReleased on: 2005-01-01Associat...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F28xQWO_6NA/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F28xQWO_6NA&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F28xQWO_6NA&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F28xQWO_6NA",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F28xQWO_6NA",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=F28xQWO_6NA",
+            "property": "og:url"
+        },
+        {
+            "content": "De Muchas Cosas Tengo Miedo",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/F28xQWO_6NA/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDe Muchas Cosas Tengo Miedo \\xc2\\xb7 Los BriosYo Se Que Te Acordaras\\xe2\\x84\\x97 1973 EMI Odeon SAICReleased on: 2005-01-01Associat...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F28xQWO_6NA&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=F28xQWO_6NA&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=F28xQWO_6NA&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F28xQWO_6NA",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/F28xQWO_6NA",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Los Brios",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Yo Se Que Te Acordaras",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "De Muchas Cosas Tengo Miedo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

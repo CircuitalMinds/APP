@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "Me Dispongo A Olvidarte",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupMe Dispongo A Olvidarte \\xc2\\xb7 Conjunto PrimaveraEl Amor Que Nunca Fue\\xe2\\x84\\x97 2006 Fonovisa RecordsReleased on: 2006-01-01Co...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC8nGrEnhheni4qnhemDx8tQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "uDA45jJ_31g",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M5S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "715215",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Me Dispongo A Olvidarte",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupMe Dispongo A Olvidarte \\xc2\\xb7 Conjunto PrimaveraEl Amor Que Nunca Fue\\xe2\\x84\\x97 2006 Fonovisa RecordsReleased on: 2006-01-01Co...",
+            "name": "description"
+        },
+        {
+            "content": "Conjunto Primavera, El Amor Que Nunca Fue, Me Dispongo A Olvidarte",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uDA45jJ_31g",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Me Dispongo A Olvidarte",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupMe Dispongo A Olvidarte \\xc2\\xb7 Conjunto PrimaveraEl Amor Que Nunca Fue\\xe2\\x84\\x97 2006 Fonovisa RecordsReleased on: 2006-01-01Co...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/uDA45jJ_31g/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uDA45jJ_31g&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uDA45jJ_31g&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uDA45jJ_31g",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uDA45jJ_31g",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uDA45jJ_31g",
+            "property": "og:url"
+        },
+        {
+            "content": "Me Dispongo A Olvidarte",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/uDA45jJ_31g/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupMe Dispongo A Olvidarte \\xc2\\xb7 Conjunto PrimaveraEl Amor Que Nunca Fue\\xe2\\x84\\x97 2006 Fonovisa RecordsReleased on: 2006-01-01Co...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uDA45jJ_31g&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uDA45jJ_31g&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=uDA45jJ_31g&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uDA45jJ_31g",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uDA45jJ_31g",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Conjunto Primavera",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "El Amor Que Nunca Fue",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Me Dispongo A Olvidarte",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

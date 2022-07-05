@@ -1,0 +1,276 @@
+{
+    "itemprop": [
+        {
+            "content": "Satin Doll (Take 7)",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupSatin Doll (Take 7) \\xc2\\xb7 The Wes Montgomery TrioThe Wes Montgomery Trio\\xe2\\x84\\x97 1987 Fantasy, Inc.Released on: 1987-01-01Au...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCYs8ep9Xe3RQc3Oy4BWKNAw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "WwEfX1v3soc",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M57S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,BA,BE,BG,BO,BR,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,EC,EE,EG,ES,FI,FR,GB,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JP,KR,LI,LT,LU,LV,MK,MT,MX,MY,NG,NI,NL,NO,NZ,PA,PE,PH,PL,PT,PY,RO,RS,RU,SA,SE,SG,SI,SK,SV,TH,TR,TW,UA,US,VE,VN,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "10115",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-11-26",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-11-26",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Satin Doll (Take 7)",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupSatin Doll (Take 7) \\xc2\\xb7 The Wes Montgomery TrioThe Wes Montgomery Trio\\xe2\\x84\\x97 1987 Fantasy, Inc.Released on: 1987-01-01Au...",
+            "name": "description"
+        },
+        {
+            "content": "The Wes Montgomery Trio, \\xe3\\x82\\xb6\\xe3\\x83\\xbb\\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xbb\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\xbb\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa, \\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa, \\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xbb\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\xbb\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa\\xef\\xbc\\x8b2, Satin Doll, \\xe3\\x82\\xb5\\xe3\\x83\\x86\\xe3\\x83\\xb3\\xe3\\x83\\xbb\\xe3\\x83\\x89\\xe3\\x83\\xbc\\xe3\\x83\\xab",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=WwEfX1v3soc",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Satin Doll (Take 7)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupSatin Doll (Take 7) \\xc2\\xb7 The Wes Montgomery TrioThe Wes Montgomery Trio\\xe2\\x84\\x97 1987 Fantasy, Inc.Released on: 1987-01-01Au...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/WwEfX1v3soc/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=WwEfX1v3soc&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=WwEfX1v3soc&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=WwEfX1v3soc",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/WwEfX1v3soc",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=WwEfX1v3soc",
+            "property": "og:url"
+        },
+        {
+            "content": "Satin Doll (Take 7)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/WwEfX1v3soc/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupSatin Doll (Take 7) \\xc2\\xb7 The Wes Montgomery TrioThe Wes Montgomery Trio\\xe2\\x84\\x97 1987 Fantasy, Inc.Released on: 1987-01-01Au...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=WwEfX1v3soc&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=WwEfX1v3soc&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=WwEfX1v3soc&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/WwEfX1v3soc",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/WwEfX1v3soc",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "The Wes Montgomery Trio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb6\\xe3\\x83\\xbb\\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xbb\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\xbb\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xa6\\xe3\\x82\\xa7\\xe3\\x82\\xb9\\xe3\\x83\\xbb\\xe3\\x83\\xa2\\xe3\\x83\\xb3\\xe3\\x82\\xb4\\xe3\\x83\\xa1\\xe3\\x83\\xaa\\xe3\\x83\\xbc\\xe3\\x83\\xbb\\xe3\\x83\\x88\\xe3\\x83\\xaa\\xe3\\x82\\xaa\\xef\\xbc\\x8b2",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Satin Doll",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb5\\xe3\\x83\\x86\\xe3\\x83\\xb3\\xe3\\x83\\xbb\\xe3\\x83\\x89\\xe3\\x83\\xbc\\xe3\\x83\\xab",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

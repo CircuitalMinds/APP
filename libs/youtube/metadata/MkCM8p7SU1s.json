@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA\\xc3\\xban Sigues Siendo M\\xc3\\xada \\xc2\\xb7 Conjunto PrimaveraHoy Como Ayer\\xe2\\x84\\x97 2004 Fonovisa, A Division Of UMG Recordings Inc.Released...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC8nGrEnhheni4qnhemDx8tQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "MkCM8p7SU1s",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M19S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,BA,BE,BG,BH,BM,BO,BR,BY,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GU,HK,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MT,MX,MY,NC,NG,NL,NO,NZ,OM,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,TC,TH,TR,TW,UA,US,UY,VE,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "718759",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-29",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-29",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA\\xc3\\xban Sigues Siendo M\\xc3\\xada \\xc2\\xb7 Conjunto PrimaveraHoy Como Ayer\\xe2\\x84\\x97 2004 Fonovisa, A Division Of UMG Recordings Inc.Released...",
+            "name": "description"
+        },
+        {
+            "content": "Conjunto Primavera, Hoy Como Ayer, A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=MkCM8p7SU1s",
+            "name": "twitter:url"
+        },
+        {
+            "content": "A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA\\xc3\\xban Sigues Siendo M\\xc3\\xada \\xc2\\xb7 Conjunto PrimaveraHoy Como Ayer\\xe2\\x84\\x97 2004 Fonovisa, A Division Of UMG Recordings Inc.Released...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/MkCM8p7SU1s/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=MkCM8p7SU1s&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=MkCM8p7SU1s&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=MkCM8p7SU1s",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/MkCM8p7SU1s",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=MkCM8p7SU1s",
+            "property": "og:url"
+        },
+        {
+            "content": "A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/MkCM8p7SU1s/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupA\\xc3\\xban Sigues Siendo M\\xc3\\xada \\xc2\\xb7 Conjunto PrimaveraHoy Como Ayer\\xe2\\x84\\x97 2004 Fonovisa, A Division Of UMG Recordings Inc.Released...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=MkCM8p7SU1s&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=MkCM8p7SU1s&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=MkCM8p7SU1s&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/MkCM8p7SU1s",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/MkCM8p7SU1s",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Conjunto Primavera",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Hoy Como Ayer",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "A\\xc3\\xban Sigues Siendo M\\xc3\\xada",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

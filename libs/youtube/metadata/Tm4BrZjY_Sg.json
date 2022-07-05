@@ -1,0 +1,336 @@
+{
+    "itemprop": [
+        {
+            "content": "America - A horse with no name (clip HQ)",
+            "itemprop": "name"
+        },
+        {
+            "content": "clip of the group America - A horse with no nameLyrics:On the first part of the journey I was looking at all the life There were plants and birds and rocks a...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCm7De_OKL2PGqmhSP0dBDdw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "Tm4BrZjY_Sg",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M6S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "51924209",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2010-03-21",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2010-03-21",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "America - A horse with no name (clip HQ)",
+            "name": "title"
+        },
+        {
+            "content": "clip of the group America - A horse with no nameLyrics:On the first part of the journey I was looking at all the life There were plants and birds and rocks a...",
+            "name": "description"
+        },
+        {
+            "content": "america, horse, with, no, name, clip, officiel, official, video, 1970, Gerry, Beckley, Dewey, Bunnell, Dan, Peek, pub, Renault, Modus",
+            "name": "keywords"
+        },
+        {
+            "content": "noindex",
+            "name": "robots"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Tm4BrZjY_Sg",
+            "name": "twitter:url"
+        },
+        {
+            "content": "America - A horse with no name (clip HQ)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "clip of the group America - A horse with no nameLyrics:On the first part of the journey I was looking at all the life There were plants and birds and rocks a...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/Tm4BrZjY_Sg/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Tm4BrZjY_Sg&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Tm4BrZjY_Sg&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Tm4BrZjY_Sg",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Tm4BrZjY_Sg",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Tm4BrZjY_Sg",
+            "property": "og:url"
+        },
+        {
+            "content": "America - A horse with no name (clip HQ)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/Tm4BrZjY_Sg/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "clip of the group America - A horse with no nameLyrics:On the first part of the journey I was looking at all the life There were plants and birds and rocks a...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Tm4BrZjY_Sg&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Tm4BrZjY_Sg&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=Tm4BrZjY_Sg&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Tm4BrZjY_Sg",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Tm4BrZjY_Sg",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "america",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "horse",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "with",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "no",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "name",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "clip",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "officiel",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "official",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "1970",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gerry",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Beckley",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dewey",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bunnell",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Peek",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "pub",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Renault",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Modus",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

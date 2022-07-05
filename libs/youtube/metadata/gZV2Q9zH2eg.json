@@ -1,0 +1,368 @@
+{
+    "itemprop": [
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) [HD]",
+            "itemprop": "name"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) http://www.popartdiscos.comEscucha \"IRRESPONSABLES\" en todas las plataformas digitales:https://itunes.apple.com/...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCDedmKlcV4qoJZOW7H8KhQw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "gZV2Q9zH2eg",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M52S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2586466",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2009-05-12",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2009-05-12",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) [HD]",
+            "name": "title"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) http://www.popartdiscos.comEscucha \"IRRESPONSABLES\" en todas las plataformas digitales:https://itunes.apple.com/...",
+            "name": "description"
+        },
+        {
+            "content": "BABASONICOS, IRRESPONSABLES, INFAME, JESSICO, VIDEO, HD, POP, ART, DISCOS, TOCKA, ANOCHE, MUCHO, Babas\\xc3\\xb3nicos (Musical Artist), risa, los calientes, los hippies, romantisismico, Anoche (Musical Album), Pop Music (Musical Genre), indios, banda de turistas, soda stereo, cerati, jessico carolo, rubi, putita, y que, fizz",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=gZV2Q9zH2eg",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) [HD]",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) http://www.popartdiscos.comEscucha \"IRRESPONSABLES\" en todas las plataformas digitales:https://itunes.apple.com/...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/gZV2Q9zH2eg/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=gZV2Q9zH2eg&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=gZV2Q9zH2eg&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=gZV2Q9zH2eg",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/gZV2Q9zH2eg",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=gZV2Q9zH2eg",
+            "property": "og:url"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) [HD]",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/gZV2Q9zH2eg/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos - Irresponsables (video oficial) http://www.popartdiscos.comEscucha \"IRRESPONSABLES\" en todas las plataformas digitales:https://itunes.apple.com/...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=gZV2Q9zH2eg&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=gZV2Q9zH2eg&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=gZV2Q9zH2eg&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/gZV2Q9zH2eg",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/gZV2Q9zH2eg",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "BABASONICOS",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "IRRESPONSABLES",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "INFAME",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "JESSICO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "VIDEO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "HD",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "POP",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ART",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "DISCOS",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "TOCKA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ANOCHE",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "MUCHO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Babas\\xc3\\xb3nicos (Musical Artist)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "risa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "los calientes",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "los hippies",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "romantisismico",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Anoche (Musical Album)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Pop Music (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indios",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "banda de turistas",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "soda stereo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cerati",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "jessico carolo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rubi",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "putita",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "y que",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "fizz",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

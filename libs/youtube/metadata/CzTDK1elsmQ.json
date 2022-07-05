@@ -1,0 +1,312 @@
+{
+    "itemprop": [
+        {
+            "content": "Soda Stereo - Estoy azulado",
+            "itemprop": "name"
+        },
+        {
+            "content": "Un video que arm\\xc3\\xa9 con im\\xc3\\xa1genes del Sif\\xc3\\xb3n Stereo. No tienen intenci\\xc3\\xb3n de ofender, sino de difundir este temazo que es Estoy azulado, pero con un poco de humor...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCpt7l6LcVwalFJ2486CuPog",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "CzTDK1elsmQ",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT5M22S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "3580595",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2007-12-26",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2007-12-26",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Soda Stereo - Estoy azulado",
+            "name": "title"
+        },
+        {
+            "content": "Un video que arm\\xc3\\xa9 con im\\xc3\\xa1genes del Sif\\xc3\\xb3n Stereo. No tienen intenci\\xc3\\xb3n de ofender, sino de difundir este temazo que es Estoy azulado, pero con un poco de humor...",
+            "name": "description"
+        },
+        {
+            "content": "soda, stereo, estoy, azulado, me, veras, volver, gustavo, cerati, zeta, bosio, charly, alberti, nada, personal",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=CzTDK1elsmQ",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Soda Stereo - Estoy azulado",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Un video que arm\\xc3\\xa9 con im\\xc3\\xa1genes del Sif\\xc3\\xb3n Stereo. No tienen intenci\\xc3\\xb3n de ofender, sino de difundir este temazo que es Estoy azulado, pero con un poco de humor...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/CzTDK1elsmQ/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=CzTDK1elsmQ&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=CzTDK1elsmQ&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=CzTDK1elsmQ",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/CzTDK1elsmQ",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=CzTDK1elsmQ",
+            "property": "og:url"
+        },
+        {
+            "content": "Soda Stereo - Estoy azulado",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/CzTDK1elsmQ/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Un video que arm\\xc3\\xa9 con im\\xc3\\xa1genes del Sif\\xc3\\xb3n Stereo. No tienen intenci\\xc3\\xb3n de ofender, sino de difundir este temazo que es Estoy azulado, pero con un poco de humor...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=CzTDK1elsmQ&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=CzTDK1elsmQ&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=CzTDK1elsmQ&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/CzTDK1elsmQ",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/CzTDK1elsmQ",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "soda",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "stereo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "estoy",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "azulado",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "me",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "veras",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "volver",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "gustavo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cerati",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "zeta",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "bosio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "charly",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "alberti",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "nada",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "personal",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

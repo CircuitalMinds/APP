@@ -1,0 +1,292 @@
+{
+    "itemprop": [
+        {
+            "content": "RAMMSTEIN - DAS MODELL (THE MODEL) LYRICS",
+            "itemprop": "name"
+        },
+        {
+            "content": "Sie ist ein Modell und sie sieht gut ausich nehm sie heut gerne mit zu mir nach Haussie wirkt so k\\xc3\\xbchl an sie kommt niemand randoch vor der Kamera da zeigt si...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCznWfsVDATdtuiXJ4j6wonQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "RDvUzqn5FaI",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M47S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "640",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "3977945",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2012-03-27",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2012-03-27",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "RAMMSTEIN - DAS MODELL (THE MODEL) LYRICS",
+            "name": "title"
+        },
+        {
+            "content": "Sie ist ein Modell und sie sieht gut ausich nehm sie heut gerne mit zu mir nach Haussie wirkt so k\\xc3\\xbchl an sie kommt niemand randoch vor der Kamera da zeigt si...",
+            "name": "description"
+        },
+        {
+            "content": "RAMMSTEIN, DAS, MODELL, N/A, 2001, GER, /ENGL., LYRICS, THE, MODEL",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RDvUzqn5FaI",
+            "name": "twitter:url"
+        },
+        {
+            "content": "RAMMSTEIN - DAS MODELL (THE MODEL) LYRICS",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Sie ist ein Modell und sie sieht gut ausich nehm sie heut gerne mit zu mir nach Haussie wirkt so k\\xc3\\xbchl an sie kommt niemand randoch vor der Kamera da zeigt si...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/RDvUzqn5FaI/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RDvUzqn5FaI&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RDvUzqn5FaI&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RDvUzqn5FaI",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RDvUzqn5FaI",
+            "name": "twitter:player"
+        },
+        {
+            "content": "640",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RDvUzqn5FaI",
+            "property": "og:url"
+        },
+        {
+            "content": "RAMMSTEIN - DAS MODELL (THE MODEL) LYRICS",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/RDvUzqn5FaI/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Sie ist ein Modell und sie sieht gut ausich nehm sie heut gerne mit zu mir nach Haussie wirkt so k\\xc3\\xbchl an sie kommt niemand randoch vor der Kamera da zeigt si...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RDvUzqn5FaI&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RDvUzqn5FaI&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=RDvUzqn5FaI&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RDvUzqn5FaI",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RDvUzqn5FaI",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "640",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "RAMMSTEIN",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "DAS",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "MODELL",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "N/A",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "2001",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "GER",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "/ENGL.",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "LYRICS",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "THE",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "MODEL",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

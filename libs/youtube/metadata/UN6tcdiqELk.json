@@ -1,0 +1,472 @@
+{
+    "itemprop": [
+        {
+            "content": "Narciso Yepes (Romance Anonimo)",
+            "itemprop": "name"
+        },
+        {
+            "content": "Yepes toca Romance Anonimo",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCxfYXHJagBPIUx8Fjny8bYw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "UN6tcdiqELk",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M36S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "5072412",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2008-11-11",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2008-11-11",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Narciso Yepes (Romance Anonimo)",
+            "name": "title"
+        },
+        {
+            "content": "Yepes toca Romance Anonimo",
+            "name": "description"
+        },
+        {
+            "content": "narciso, yepes, jeux, interdits, romance, romanza, forgiven, plays, guitare, guitar, classique, classical, flamenco, rumba, blues, folk, rock, roll, pop, instrument, musique, music, mattrach, andy, mckee, boccherini, bartok, zygel, hit, tube, tv, show, performance, acoustic, acoustique, bass, opera, orchestra, orchestre, tab, lesson, cours, france, usa, italy, italie, espagne, spanish, suisse, swiss, belgique, canada, deutschland, japan, japon",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=UN6tcdiqELk",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Narciso Yepes (Romance Anonimo)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Yepes toca Romance Anonimo",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/UN6tcdiqELk/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=UN6tcdiqELk&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=UN6tcdiqELk&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=UN6tcdiqELk",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/UN6tcdiqELk",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=UN6tcdiqELk",
+            "property": "og:url"
+        },
+        {
+            "content": "Narciso Yepes (Romance Anonimo)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/UN6tcdiqELk/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Yepes toca Romance Anonimo",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=UN6tcdiqELk&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=UN6tcdiqELk&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=UN6tcdiqELk&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/UN6tcdiqELk",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/UN6tcdiqELk",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "narciso",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "yepes",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "jeux",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "interdits",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "romance",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "romanza",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "forgiven",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "plays",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "guitare",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "guitar",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "classique",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "classical",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "flamenco",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rumba",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "blues",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "folk",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "roll",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "pop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "instrument",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "musique",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "mattrach",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "andy",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "mckee",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "boccherini",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "bartok",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "zygel",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "hit",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "tube",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "tv",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "show",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "performance",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "acoustic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "acoustique",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "bass",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "opera",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "orchestra",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "orchestre",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "tab",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lesson",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cours",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "france",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "usa",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "italy",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "italie",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "espagne",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "spanish",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "suisse",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "swiss",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "belgique",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "canada",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "deutschland",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "japan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "japon",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

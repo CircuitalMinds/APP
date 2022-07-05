@@ -1,0 +1,268 @@
+{
+    "itemprop": [
+        {
+            "content": "Lila Downs - El Feo (En Vivo)",
+            "itemprop": "name"
+        },
+        {
+            "content": "Music video by Lila Downs performing El Feo. (C) 2012 Sony Music Entertainment M\\xc3\\xa9xico, S.A. De C.V.#LilaDowns #ElFeo #Vevo #World #EnVivo",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCrV2lNMrGwTeqdRTBPD2VnQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "8UC25h70Lkc",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M45S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AG,AI,AL,AM,AO,AQ,AR,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BI,BJ,BL,BM,BN,BO,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IS,IT,JE,JM,JP,KE,KG,KH,KI,KM,KN,KP,KR,KY,KZ,LA,LC,LI,LK,LR,LS,LT,LU,LV,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,PA,PE,PF,PG,PH,PL,PM,PN,PT,PW,PY,RE,RO,RS,RU,RW,SB,SC,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,ST,SV,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UY,UZ,VA,VC,VE,VG,VN,VU,WF,WS,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "3896472",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2012-07-19",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2012-07-19",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Lila Downs - El Feo (En Vivo)",
+            "name": "title"
+        },
+        {
+            "content": "Music video by Lila Downs performing El Feo. (C) 2012 Sony Music Entertainment M\\xc3\\xa9xico, S.A. De C.V.#LilaDowns #ElFeo #Vevo #World #EnVivo",
+            "name": "description"
+        },
+        {
+            "content": "Columbia, El Feo, Lila Downs, World Music",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=8UC25h70Lkc",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Lila Downs - El Feo (En Vivo)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Music video by Lila Downs performing El Feo. (C) 2012 Sony Music Entertainment M\\xc3\\xa9xico, S.A. De C.V.#LilaDowns #ElFeo #Vevo #World #EnVivo",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/8UC25h70Lkc/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=8UC25h70Lkc&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=8UC25h70Lkc&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=8UC25h70Lkc",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/8UC25h70Lkc",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=8UC25h70Lkc",
+            "property": "og:url"
+        },
+        {
+            "content": "Lila Downs - El Feo (En Vivo)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/8UC25h70Lkc/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Music video by Lila Downs performing El Feo. (C) 2012 Sony Music Entertainment M\\xc3\\xa9xico, S.A. De C.V.#LilaDowns #ElFeo #Vevo #World #EnVivo",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=8UC25h70Lkc&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=8UC25h70Lkc&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=8UC25h70Lkc&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/8UC25h70Lkc",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/8UC25h70Lkc",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Columbia",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "El Feo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Lila Downs",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "World Music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

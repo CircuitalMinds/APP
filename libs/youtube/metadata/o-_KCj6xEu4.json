@@ -1,0 +1,284 @@
+{
+    "itemprop": [
+        {
+            "content": "Soundjata",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesSoundjata \\xc2\\xb7 K\\xc3\\xa9l\\xc3\\xa9tigui Diabat\\xc3\\xa9 \\xc2\\xb7 l'Ensemble Traditionnel du MaliSandiya\\xe2\\x84\\x97 2004 Contre-Jour\\xe2\\x84\\x97 Contre-JourReleased o...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC0VAgcvopdk7Gcx0ROxIGQg",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "o-_KCj6xEu4",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT8M50S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AR,AW,BM,BO,BR,CA,CL,CO,CR,DO,EC,GF,GP,GT,HN,KY,MQ,MX,NI,PA,PE,PR,PY,SV,TC,US,UY,VE,VI",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "363",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Soundjata",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesSoundjata \\xc2\\xb7 K\\xc3\\xa9l\\xc3\\xa9tigui Diabat\\xc3\\xa9 \\xc2\\xb7 l'Ensemble Traditionnel du MaliSandiya\\xe2\\x84\\x97 2004 Contre-Jour\\xe2\\x84\\x97 Contre-JourReleased o...",
+            "name": "description"
+        },
+        {
+            "content": "K\\xc3\\xa9l\\xc3\\xa9tigui, Diabat\\xc3\\xa9, l'Ensemble, Traditionnel, du, Mali, Sandiya, Soundjata",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=o-_KCj6xEu4",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Soundjata",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesSoundjata \\xc2\\xb7 K\\xc3\\xa9l\\xc3\\xa9tigui Diabat\\xc3\\xa9 \\xc2\\xb7 l'Ensemble Traditionnel du MaliSandiya\\xe2\\x84\\x97 2004 Contre-Jour\\xe2\\x84\\x97 Contre-JourReleased o...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/o-_KCj6xEu4/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=o-_KCj6xEu4&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=o-_KCj6xEu4&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=o-_KCj6xEu4",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/o-_KCj6xEu4",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=o-_KCj6xEu4",
+            "property": "og:url"
+        },
+        {
+            "content": "Soundjata",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/o-_KCj6xEu4/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesSoundjata \\xc2\\xb7 K\\xc3\\xa9l\\xc3\\xa9tigui Diabat\\xc3\\xa9 \\xc2\\xb7 l'Ensemble Traditionnel du MaliSandiya\\xe2\\x84\\x97 2004 Contre-Jour\\xe2\\x84\\x97 Contre-JourReleased o...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=o-_KCj6xEu4&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=o-_KCj6xEu4&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=o-_KCj6xEu4&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/o-_KCj6xEu4",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/o-_KCj6xEu4",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "K\\xc3\\xa9l\\xc3\\xa9tigui",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Diabat\\xc3\\xa9",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "l'Ensemble",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Traditionnel",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "du",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Mali",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Sandiya",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Soundjata",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

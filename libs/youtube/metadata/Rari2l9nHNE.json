@@ -1,0 +1,288 @@
+{
+    "itemprop": [
+        {
+            "content": "I Love You Truly",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesI Love You Truly · Al BowllyKing George VI Speeches℗ 2011 Smith & CoReleased on: 2011-03-22Music Publisher: Cam...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCyHZraulsWbMrb4MIDyMO_Q",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "Rari2l9nHNE",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M50S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "30064",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2014-11-21",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2014-11-21",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "I Love You Truly",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesI Love You Truly · Al BowllyKing George VI Speeches℗ 2011 Smith & CoReleased on: 2011-03-22Music Publisher: Cam...",
+            "name": "description"
+        },
+        {
+            "content": "Al, Bowlly, King, George, VI, Speeches, Love, You, Truly",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Rari2l9nHNE",
+            "name": "twitter:url"
+        },
+        {
+            "content": "I Love You Truly",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesI Love You Truly · Al BowllyKing George VI Speeches℗ 2011 Smith & CoReleased on: 2011-03-22Music Publisher: Cam...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/Rari2l9nHNE/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Rari2l9nHNE&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Rari2l9nHNE&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Rari2l9nHNE",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Rari2l9nHNE",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=Rari2l9nHNE",
+            "property": "og:url"
+        },
+        {
+            "content": "I Love You Truly",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/Rari2l9nHNE/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by The Orchard EnterprisesI Love You Truly · Al BowllyKing George VI Speeches℗ 2011 Smith & CoReleased on: 2011-03-22Music Publisher: Cam...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Rari2l9nHNE&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=Rari2l9nHNE&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=Rari2l9nHNE&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Rari2l9nHNE",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/Rari2l9nHNE",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Al",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bowlly",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "King",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "George",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "VI",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Speeches",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Love",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "You",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Truly",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

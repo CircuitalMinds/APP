@@ -1,0 +1,288 @@
+{
+    "itemprop": [
+        {
+            "content": "Love Me Tomorrow - Chicago",
+            "itemprop": "name"
+        },
+        {
+            "content": "Chicago",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCMrE_Rz8pDc5sbzOIQA5bCQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "RnoAaDw_W84",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M15S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2187471",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2008-01-11",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2008-01-11",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Love Me Tomorrow - Chicago",
+            "name": "title"
+        },
+        {
+            "content": "Chicago",
+            "name": "description"
+        },
+        {
+            "content": "sweet, love, romantic, robin, stem, cell, tycoon, music",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RnoAaDw_W84",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Love Me Tomorrow - Chicago",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Chicago",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/RnoAaDw_W84/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RnoAaDw_W84&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RnoAaDw_W84&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RnoAaDw_W84",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RnoAaDw_W84",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=RnoAaDw_W84",
+            "property": "og:url"
+        },
+        {
+            "content": "Love Me Tomorrow - Chicago",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/RnoAaDw_W84/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Chicago",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RnoAaDw_W84&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=RnoAaDw_W84&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=RnoAaDw_W84&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RnoAaDw_W84",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/RnoAaDw_W84",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "sweet",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "love",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "romantic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "robin",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "stem",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cell",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "tycoon",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

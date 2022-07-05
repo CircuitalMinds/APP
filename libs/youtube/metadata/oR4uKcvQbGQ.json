@@ -1,0 +1,296 @@
+{
+    "itemprop": [
+        {
+            "content": "Boston - More Than A Feeling (HQ)",
+            "itemprop": "name"
+        },
+        {
+            "content": "\"More Than A Feeling\" is a song by the rock band Boston. Released in 1976, the song has become a staple of classic rock.",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UC0OYa_PPEbJc-sfPuuAf8gQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "oR4uKcvQbGQ",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M47S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "14273727",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2011-05-21",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2011-05-21",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Boston - More Than A Feeling (HQ)",
+            "name": "title"
+        },
+        {
+            "content": "\"More Than A Feeling\" is a song by the rock band Boston. Released in 1976, the song has become a staple of classic rock.",
+            "name": "description"
+        },
+        {
+            "content": "InnerMusicLove, Boston, More, Than, Feeling, HQ, Lyrics, Classic, Rock, TheGreatestRockSongs",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=oR4uKcvQbGQ",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Boston - More Than A Feeling (HQ)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "\"More Than A Feeling\" is a song by the rock band Boston. Released in 1976, the song has become a staple of classic rock.",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/oR4uKcvQbGQ/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=oR4uKcvQbGQ&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=oR4uKcvQbGQ&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=oR4uKcvQbGQ",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/oR4uKcvQbGQ",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=oR4uKcvQbGQ",
+            "property": "og:url"
+        },
+        {
+            "content": "Boston - More Than A Feeling (HQ)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/oR4uKcvQbGQ/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "\"More Than A Feeling\" is a song by the rock band Boston. Released in 1976, the song has become a staple of classic rock.",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=oR4uKcvQbGQ&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=oR4uKcvQbGQ&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=oR4uKcvQbGQ&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/oR4uKcvQbGQ",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/oR4uKcvQbGQ",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "InnerMusicLove",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Boston",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "More",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Than",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Feeling",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "HQ",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Classic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "TheGreatestRockSongs",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

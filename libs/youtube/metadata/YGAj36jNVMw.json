@@ -1,0 +1,276 @@
+{
+    "itemprop": [
+        {
+            "content": "Won't Stop",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupWon't Stop \\xc2\\xb7 OneRepublicDreaming Out Loud\\xe2\\x84\\x97 A Mosley Music/Interscope Records Release; \\xe2\\x84\\x97 2007 UMG Recordings, Inc....",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCrrbm1toLPud8fFIisPuxpg",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "YGAj36jNVMw",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT5M3S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "CA,JP,MX,US",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "86256",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Won't Stop",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupWon't Stop \\xc2\\xb7 OneRepublicDreaming Out Loud\\xe2\\x84\\x97 A Mosley Music/Interscope Records Release; \\xe2\\x84\\x97 2007 UMG Recordings, Inc....",
+            "name": "description"
+        },
+        {
+            "content": "OneRepublic, \\xe3\\x83\\xaf\\xe3\\x83\\xb3\\xe3\\x83\\xaa\\xe3\\x83\\x91\\xe3\\x83\\x96\\xe3\\x83\\xaa\\xe3\\x83\\x84\\xe3\\x82\\xaf, \\xe3\\x83\\xaf\\xe3\\x83\\xb3\\xe3\\x83\\xaa\\xe3\\x83\\x91\\xe3\\x83\\x96\\xe3\\x83\\xaa\\xe3\\x83\\x83\\xe3\\x82\\xaf, Dreaming Out Loud, Won't Stop, \\xe3\\x82\\xa6\\xe3\\x82\\xa9\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xbb\\xe3\\x82\\xb9\\xe3\\x83\\x88\\xe3\\x83\\x83\\xe3\\x83\\x97",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=YGAj36jNVMw",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Won't Stop",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupWon't Stop \\xc2\\xb7 OneRepublicDreaming Out Loud\\xe2\\x84\\x97 A Mosley Music/Interscope Records Release; \\xe2\\x84\\x97 2007 UMG Recordings, Inc....",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/YGAj36jNVMw/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=YGAj36jNVMw&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=YGAj36jNVMw&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=YGAj36jNVMw",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/YGAj36jNVMw",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=YGAj36jNVMw",
+            "property": "og:url"
+        },
+        {
+            "content": "Won't Stop",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/YGAj36jNVMw/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupWon't Stop \\xc2\\xb7 OneRepublicDreaming Out Loud\\xe2\\x84\\x97 A Mosley Music/Interscope Records Release; \\xe2\\x84\\x97 2007 UMG Recordings, Inc....",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=YGAj36jNVMw&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=YGAj36jNVMw&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=YGAj36jNVMw&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/YGAj36jNVMw",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/YGAj36jNVMw",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "OneRepublic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x83\\xaf\\xe3\\x83\\xb3\\xe3\\x83\\xaa\\xe3\\x83\\x91\\xe3\\x83\\x96\\xe3\\x83\\xaa\\xe3\\x83\\x84\\xe3\\x82\\xaf",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x83\\xaf\\xe3\\x83\\xb3\\xe3\\x83\\xaa\\xe3\\x83\\x91\\xe3\\x83\\x96\\xe3\\x83\\xaa\\xe3\\x83\\x83\\xe3\\x82\\xaf",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dreaming Out Loud",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Won't Stop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xa6\\xe3\\x82\\xa9\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xbb\\xe3\\x82\\xb9\\xe3\\x83\\x88\\xe3\\x83\\x83\\xe3\\x83\\x97",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

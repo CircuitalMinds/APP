@@ -1,0 +1,360 @@
+{
+    "itemprop": [
+        {
+            "content": "Gipsy Kings - Volare (Official Video)",
+            "itemprop": "name"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)Follow on Spotify - http://smarturl.it/gipsykingsessentialsListen on Apple Music - http://smarturl.it/gipsykingsListen o...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCP_gzcyeN4sSN-cCep_iaEQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "qmbx4_TQbkA",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M42S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UY,UZ,VA,VC,VE,VG,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "35503603",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2019-04-15",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2019-04-15",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)",
+            "name": "title"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)Follow on Spotify - http://smarturl.it/gipsykingsessentialsListen on Apple Music - http://smarturl.it/gipsykingsListen o...",
+            "name": "description"
+        },
+        {
+            "content": "Gipsy kings, volare, Gipsy Kings Volare, Gipsy Kings remix, Volare official video, Gipsy Kings Volare official video, Gipsy Kings Volare lyrics, Gipsy Kings album, Gipsy Kings full album, Gipsy Kings essentials, Gipsy Kings full, Gipsy Kings official audio, Gipsy Kings official video, Gipsy Kings full track, Gipsy Kings hd, Gipsy Kings hq, lyrics, hd, hq, official audio, official video, remix, No Volvere, Bamboleo, Un Amor, Djobi Djobi, Bailia",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=qmbx4_TQbkA",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)Follow on Spotify - http://smarturl.it/gipsykingsessentialsListen on Apple Music - http://smarturl.it/gipsykingsListen o...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/qmbx4_TQbkA/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=qmbx4_TQbkA&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=qmbx4_TQbkA&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=qmbx4_TQbkA",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/qmbx4_TQbkA",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=qmbx4_TQbkA",
+            "property": "og:url"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/qmbx4_TQbkA/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Gipsy Kings - Volare (Official Video)Follow on Spotify - http://smarturl.it/gipsykingsessentialsListen on Apple Music - http://smarturl.it/gipsykingsListen o...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=qmbx4_TQbkA&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=qmbx4_TQbkA&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=qmbx4_TQbkA&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/qmbx4_TQbkA",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/qmbx4_TQbkA",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Gipsy kings",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "volare",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings Volare",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings remix",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Volare official video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings Volare official video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings Volare lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings album",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings full album",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings essentials",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings full",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings official audio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings official video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings full track",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings hd",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Gipsy Kings hq",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "hd",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "hq",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "official audio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "official video",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "remix",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "No Volvere",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bamboleo",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Un Amor",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Djobi Djobi",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bailia",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

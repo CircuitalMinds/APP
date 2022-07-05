@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "Las Palabras",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLas Palabras · Tropicalísimo ApacheBailando Bien Con...℗ 1999 Fonovisa Una División De Universal Music México S.A...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCMN2pyWR1vyHERDS9irKOJA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "FbXT0A9iA90",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M12S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "CA,MX,US",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "1645017",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-29",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-29",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Las Palabras",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLas Palabras · Tropicalísimo ApacheBailando Bien Con...℗ 1999 Fonovisa Una División De Universal Music México S.A...",
+            "name": "description"
+        },
+        {
+            "content": "Tropicalísimo Apache, Bailando Bien Con..., Las Palabras",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FbXT0A9iA90",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Las Palabras",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLas Palabras · Tropicalísimo ApacheBailando Bien Con...℗ 1999 Fonovisa Una División De Universal Music México S.A...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/FbXT0A9iA90/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FbXT0A9iA90&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FbXT0A9iA90&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FbXT0A9iA90",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FbXT0A9iA90",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=FbXT0A9iA90",
+            "property": "og:url"
+        },
+        {
+            "content": "Las Palabras",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/FbXT0A9iA90/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLas Palabras · Tropicalísimo ApacheBailando Bien Con...℗ 1999 Fonovisa Una División De Universal Music México S.A...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FbXT0A9iA90&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=FbXT0A9iA90&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=FbXT0A9iA90&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FbXT0A9iA90",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/FbXT0A9iA90",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Tropicalísimo Apache",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bailando Bien Con...",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Las Palabras",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

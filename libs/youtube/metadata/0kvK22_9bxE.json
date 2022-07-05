@@ -1,0 +1,300 @@
+{
+    "itemprop": [
+        {
+            "content": "Great Balls of Fire - Jerry Lee Lewis | Karaoke Version | KaraFun",
+            "itemprop": "name"
+        },
+        {
+            "content": "Download MP3: https://www.karaoke-version.com/mp3-backingtrack/jerry-lee-lewis/great-balls-of-fire.htmlSing Online: https://www.karafun.com/karaoke/jerry-lee...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCbqcG1rdt9LMwOJN4PyGTKg",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "0kvK22_9bxE",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M7S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "750785",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2012-07-05",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2012-07-05",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Great Balls of Fire - Jerry Lee Lewis | Karaoke Version | KaraFun",
+            "name": "title"
+        },
+        {
+            "content": "Download MP3: https://www.karaoke-version.com/mp3-backingtrack/jerry-lee-lewis/great-balls-of-fire.htmlSing Online: https://www.karafun.com/karaoke/jerry-lee...",
+            "name": "description"
+        },
+        {
+            "content": "karaoke, great, balls, fire, jerry, lee, lewis, backing, track, instrumental, playback, mp3, lyrics, sing, along, singing, cover, music, karafun, fire\\xc2\\xa0karaoke, hits, lewis\\xc2\\xa0great, party",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=0kvK22_9bxE",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Great Balls of Fire - Jerry Lee Lewis | Karaoke Version | KaraFun",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Download MP3: https://www.karaoke-version.com/mp3-backingtrack/jerry-lee-lewis/great-balls-of-fire.htmlSing Online: https://www.karafun.com/karaoke/jerry-lee...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/0kvK22_9bxE/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=0kvK22_9bxE&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=0kvK22_9bxE&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=0kvK22_9bxE",
+            "name": "twitter:app:url:googleplay"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=0kvK22_9bxE",
+            "property": "og:url"
+        },
+        {
+            "content": "Great Balls of Fire - Jerry Lee Lewis | Karaoke Version | KaraFun",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/0kvK22_9bxE/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Download MP3: https://www.karaoke-version.com/mp3-backingtrack/jerry-lee-lewis/great-balls-of-fire.htmlSing Online: https://www.karafun.com/karaoke/jerry-lee...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=0kvK22_9bxE&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=0kvK22_9bxE&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=0kvK22_9bxE&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "karaoke",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "great",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "balls",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "fire",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "jerry",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lee",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lewis",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "backing",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "track",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "instrumental",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "playback",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "mp3",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lyrics",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "sing",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "along",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "singing",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cover",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "karafun",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "fire\\xc2\\xa0karaoke",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "hits",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "lewis\\xc2\\xa0great",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "party",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

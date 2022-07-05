@@ -1,0 +1,268 @@
+{
+    "itemprop": [
+        {
+            "content": "Thetawaves",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by American/ColumbiaThetawaves \\xc2\\xb7 System Of A DownSteal This Album!\\xe2\\x84\\x97 2002 Columbia Records, a division of Sony Music Entertainment. With A...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCDJftX2zx_UT_QSnBGIF96w",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "3vG143YLg6s",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M37S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PR,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "1082131",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2017-01-25",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Thetawaves",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by American/ColumbiaThetawaves \\xc2\\xb7 System Of A DownSteal This Album!\\xe2\\x84\\x97 2002 Columbia Records, a division of Sony Music Entertainment. With A...",
+            "name": "description"
+        },
+        {
+            "content": "System Of A Down, \\xe5\\xa2\\xae\\xe8\\x90\\xbd\\xe9\\xab\\x94\\xe5\\x88\\xb6\\xe5\\x90\\x88\\xe5\\x94\\xb1\\xe5\\x9c\\x98, Steal This Album!, Thetawaves",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=3vG143YLg6s",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Thetawaves",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by American/ColumbiaThetawaves \\xc2\\xb7 System Of A DownSteal This Album!\\xe2\\x84\\x97 2002 Columbia Records, a division of Sony Music Entertainment. With A...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/3vG143YLg6s/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=3vG143YLg6s&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=3vG143YLg6s&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=3vG143YLg6s",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/3vG143YLg6s",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=3vG143YLg6s",
+            "property": "og:url"
+        },
+        {
+            "content": "Thetawaves",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/3vG143YLg6s/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by American/ColumbiaThetawaves \\xc2\\xb7 System Of A DownSteal This Album!\\xe2\\x84\\x97 2002 Columbia Records, a division of Sony Music Entertainment. With A...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=3vG143YLg6s&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=3vG143YLg6s&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=3vG143YLg6s&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/3vG143YLg6s",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/3vG143YLg6s",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "System Of A Down",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe5\\xa2\\xae\\xe8\\x90\\xbd\\xe9\\xab\\x94\\xe5\\x88\\xb6\\xe5\\x90\\x88\\xe5\\x94\\xb1\\xe5\\x9c\\x98",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Steal This Album!",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Thetawaves",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

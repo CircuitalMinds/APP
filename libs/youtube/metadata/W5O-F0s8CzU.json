@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "Back of Love",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Rhino/Warner RecordsBack of Love \\xc2\\xb7 Echo And The BunnymenPorcupine\\xe2\\x84\\x97 1983 Warner Music UK LtdUnknown: Andy ZaxRemastering  Engineer: Bil...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCUc_GvRm-HCUuNcUHE53s8A",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "W5O-F0s8CzU",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M14S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GP,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "94676",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2017-02-08",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2017-02-08",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Back of Love",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Rhino/Warner RecordsBack of Love \\xc2\\xb7 Echo And The BunnymenPorcupine\\xe2\\x84\\x97 1983 Warner Music UK LtdUnknown: Andy ZaxRemastering  Engineer: Bil...",
+            "name": "description"
+        },
+        {
+            "content": "Echo And The Bunnymen, Porcupine, Back of Love",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=W5O-F0s8CzU",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Back of Love",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Rhino/Warner RecordsBack of Love \\xc2\\xb7 Echo And The BunnymenPorcupine\\xe2\\x84\\x97 1983 Warner Music UK LtdUnknown: Andy ZaxRemastering  Engineer: Bil...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/W5O-F0s8CzU/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=W5O-F0s8CzU&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=W5O-F0s8CzU&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=W5O-F0s8CzU",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/W5O-F0s8CzU",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=W5O-F0s8CzU",
+            "property": "og:url"
+        },
+        {
+            "content": "Back of Love",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/W5O-F0s8CzU/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Rhino/Warner RecordsBack of Love \\xc2\\xb7 Echo And The BunnymenPorcupine\\xe2\\x84\\x97 1983 Warner Music UK LtdUnknown: Andy ZaxRemastering  Engineer: Bil...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=W5O-F0s8CzU&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=W5O-F0s8CzU&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=W5O-F0s8CzU&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/W5O-F0s8CzU",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/W5O-F0s8CzU",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Echo And The Bunnymen",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Porcupine",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Back of Love",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

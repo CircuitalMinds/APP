@@ -1,0 +1,272 @@
+{
+    "itemprop": [
+        {
+            "content": "Pesada",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupPesada \\xc2\\xb7 Control MacheteSingles\\xe2\\x84\\x97 1999 Universal Music Mexico S.A. de C.V.Released on: 2017-02-10Producer: Jason R...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCC6DLIBOTh0yoXYOmHR2fLw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "2MG-DZJZB9U",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT4M58S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AS,AT,AU,AW,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GF,GR,GT,GU,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MA,MK,MP,MQ,MT,MX,MY,NC,NG,NI,NL,NO,NZ,OM,PA,PE,PF,PG,PH,PL,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VI,VN,YT,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "1021641",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-30",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-30",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Pesada",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupPesada \\xc2\\xb7 Control MacheteSingles\\xe2\\x84\\x97 1999 Universal Music Mexico S.A. de C.V.Released on: 2017-02-10Producer: Jason R...",
+            "name": "description"
+        },
+        {
+            "content": "Control Machete, \\xe3\\x82\\xb3\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xad\\xe3\\x83\\xbc\\xe3\\x83\\xab\\xe3\\x83\\x9e\\xe3\\x83\\x81\\xe3\\x82\\xa8\\xe3\\x83\\x86, \\xe3\\x82\\xb3\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xad\\xe3\\x83\\xbc\\xe3\\x83\\xab\\xe3\\x83\\xbb\\xe3\\x83\\x9e\\xe3\\x83\\x81\\xe3\\x82\\xa7\\xe3\\x83\\x86, Singles, Pesada",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=2MG-DZJZB9U",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Pesada",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupPesada \\xc2\\xb7 Control MacheteSingles\\xe2\\x84\\x97 1999 Universal Music Mexico S.A. de C.V.Released on: 2017-02-10Producer: Jason R...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/2MG-DZJZB9U/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=2MG-DZJZB9U&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=2MG-DZJZB9U&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=2MG-DZJZB9U",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/2MG-DZJZB9U",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=2MG-DZJZB9U",
+            "property": "og:url"
+        },
+        {
+            "content": "Pesada",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/2MG-DZJZB9U/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupPesada \\xc2\\xb7 Control MacheteSingles\\xe2\\x84\\x97 1999 Universal Music Mexico S.A. de C.V.Released on: 2017-02-10Producer: Jason R...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=2MG-DZJZB9U&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=2MG-DZJZB9U&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=2MG-DZJZB9U&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/2MG-DZJZB9U",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/2MG-DZJZB9U",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Control Machete",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb3\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xad\\xe3\\x83\\xbc\\xe3\\x83\\xab\\xe3\\x83\\x9e\\xe3\\x83\\x81\\xe3\\x82\\xa8\\xe3\\x83\\x86",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "\\xe3\\x82\\xb3\\xe3\\x83\\xb3\\xe3\\x83\\x88\\xe3\\x83\\xad\\xe3\\x83\\xbc\\xe3\\x83\\xab\\xe3\\x83\\xbb\\xe3\\x83\\x9e\\xe3\\x83\\x81\\xe3\\x82\\xa7\\xe3\\x83\\x86",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Singles",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Pesada",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "itemprop": [
+        {
+            "content": "La Vieja Banca",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLa Vieja Banca \\xc2\\xb7 Los Invasores De Nuevo Le\\xc3\\xb3n15 Boleros De Oro\\xe2\\x84\\x97 1984 EMI Music M\\xc3\\xa9xico, S.A. de C.V.Released on: 19...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCrW5WiDiZgU18g4s7N61Cog",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "z-wJMbX2QrY",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT2M39S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AR,AS,BO,BR,CL,CO,CR,EC,GT,GU,HN,MP,MX,NI,PA,PE,PR,PY,US,UY,VE,VI",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "4392445",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2014-12-25",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2014-12-25",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "La Vieja Banca",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLa Vieja Banca \\xc2\\xb7 Los Invasores De Nuevo Le\\xc3\\xb3n15 Boleros De Oro\\xe2\\x84\\x97 1984 EMI Music M\\xc3\\xa9xico, S.A. de C.V.Released on: 19...",
+            "name": "description"
+        },
+        {
+            "content": "Los Invasores De Nuevo Le\\xc3\\xb3n, 15 Boleros De Oro, La Vieja Banca",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=z-wJMbX2QrY",
+            "name": "twitter:url"
+        },
+        {
+            "content": "La Vieja Banca",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLa Vieja Banca \\xc2\\xb7 Los Invasores De Nuevo Le\\xc3\\xb3n15 Boleros De Oro\\xe2\\x84\\x97 1984 EMI Music M\\xc3\\xa9xico, S.A. de C.V.Released on: 19...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/z-wJMbX2QrY/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=z-wJMbX2QrY&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=z-wJMbX2QrY&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=z-wJMbX2QrY",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/z-wJMbX2QrY",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=z-wJMbX2QrY",
+            "property": "og:url"
+        },
+        {
+            "content": "La Vieja Banca",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/z-wJMbX2QrY/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupLa Vieja Banca \\xc2\\xb7 Los Invasores De Nuevo Le\\xc3\\xb3n15 Boleros De Oro\\xe2\\x84\\x97 1984 EMI Music M\\xc3\\xa9xico, S.A. de C.V.Released on: 19...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=z-wJMbX2QrY&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=z-wJMbX2QrY&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=z-wJMbX2QrY&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/z-wJMbX2QrY",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/z-wJMbX2QrY",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Los Invasores De Nuevo Le\\xc3\\xb3n",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "15 Boleros De Oro",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "La Vieja Banca",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

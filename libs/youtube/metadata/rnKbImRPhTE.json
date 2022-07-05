@@ -1,0 +1,364 @@
+{
+    "itemprop": [
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "itemprop": "name"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCWWKlE9cBdkG9c81RXxL8QA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "rnKbImRPhTE",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M10S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "64940353",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2014-09-29",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2014-09-29",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "name": "title"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "name": "description"
+        },
+        {
+            "content": "Bob Dylan, Knockin' On Heaven's Door (Composition), Music (TV Genre), Life, Cody, Song, Cole, Brenda Song (Celebrity), Original, Zack, Acoustic, Acoustic Music (Musical Genre), Guitar, Singer, Life (ZOEgirl Album), Bob Dylan Knocking on heavens door Original, Original Song, Bob, Dylan-, Knockin', on, Heaven's, Door, Folk, Artist, Musician, Rock Music (Film Genre)",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=rnKbImRPhTE",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/rnKbImRPhTE/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=rnKbImRPhTE&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=rnKbImRPhTE&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=rnKbImRPhTE",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/rnKbImRPhTE",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=rnKbImRPhTE",
+            "property": "og:url"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/rnKbImRPhTE/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Bob Dylan- Knockin' on Heaven's Door \"Original\"",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=rnKbImRPhTE&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=rnKbImRPhTE&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=rnKbImRPhTE&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/rnKbImRPhTE",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/rnKbImRPhTE",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Bob Dylan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Knockin' On Heaven's Door (Composition)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Music (TV Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Life",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Cody",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Song",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Cole",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Brenda Song (Celebrity)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Original",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Zack",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Acoustic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Acoustic Music (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Guitar",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Singer",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Life (ZOEgirl Album)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bob Dylan Knocking on heavens door Original",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Original Song",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Bob",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dylan-",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Knockin'",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "on",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Heaven's",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Door",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Folk",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Artist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Musician",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock Music (Film Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

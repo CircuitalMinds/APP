@@ -1,0 +1,320 @@
+{
+    "itemprop": [
+        {
+            "content": "King Tubby - Dub of A Woman",
+            "itemprop": "name"
+        },
+        {
+            "content": "Reggae2Reggae Store: https://teespring.com/stores/reggae2reggaeSupport The Channel: https://www.patreon.com/reggae2reggae- Subscribe to Reggae2Reggae: http:/...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCNX5hSEENaImGD8N5yRJuvw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "ks64Wj8tSdg",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT3M54S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "4061",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2016-11-29",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2016-11-29",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "King Tubby - Dub of A Woman",
+            "name": "title"
+        },
+        {
+            "content": "Reggae2Reggae Store: https://teespring.com/stores/reggae2reggaeSupport The Channel: https://www.patreon.com/reggae2reggae- Subscribe to Reggae2Reggae: http:/...",
+            "name": "description"
+        },
+        {
+            "content": "Reggae, Reggae2Reggae, Roots, Vintage, Classic, Dub, Retro, Oldies, Jamaica, Rastafarian, Riddim, Ska, Carribean, Music, Caribbean Music (Musical Genre), Dub (Musical Genre), Rastafari Movement (Religion)",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ks64Wj8tSdg",
+            "name": "twitter:url"
+        },
+        {
+            "content": "King Tubby - Dub of A Woman",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Reggae2Reggae Store: https://teespring.com/stores/reggae2reggaeSupport The Channel: https://www.patreon.com/reggae2reggae- Subscribe to Reggae2Reggae: http:/...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/ks64Wj8tSdg/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ks64Wj8tSdg&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ks64Wj8tSdg&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ks64Wj8tSdg",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ks64Wj8tSdg",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=ks64Wj8tSdg",
+            "property": "og:url"
+        },
+        {
+            "content": "King Tubby - Dub of A Woman",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/ks64Wj8tSdg/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Reggae2Reggae Store: https://teespring.com/stores/reggae2reggaeSupport The Channel: https://www.patreon.com/reggae2reggae- Subscribe to Reggae2Reggae: http:/...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ks64Wj8tSdg&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=ks64Wj8tSdg&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=ks64Wj8tSdg&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ks64Wj8tSdg",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/ks64Wj8tSdg",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Reggae",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Reggae2Reggae",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Roots",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Vintage",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Classic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dub",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Retro",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Oldies",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Jamaica",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rastafarian",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Riddim",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Ska",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Carribean",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Caribbean Music (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Dub (Musical Genre)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rastafari Movement (Religion)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

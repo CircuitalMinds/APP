@@ -1,0 +1,400 @@
+{
+    "itemprop": [
+        {
+            "content": "Indie Playlist | Best of November 2020",
+            "itemprop": "name"
+        },
+        {
+            "content": "A playlist featuring the best new indie songs from November 2020. Tracklist below ⬇𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 ➡️ https://www.youtube.com/channel/UCwLxgZHR8oDOzJXtXuS...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCwLxgZHR8oDOzJXtXuSB_bA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "wojnldBSHzA",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT161M4S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "false",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "604852",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2020-11-30",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2020-11-30",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Indie Playlist | Best of November 2020",
+            "name": "title"
+        },
+        {
+            "content": "A playlist featuring the best new indie songs from November 2020. Tracklist below ⬇𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 ➡️ https://www.youtube.com/channel/UCwLxgZHR8oDOzJXtXuS...",
+            "name": "description"
+        },
+        {
+            "content": "indie playlist, fresh finds, spotify, november 2020, indie music, indie pop, indie rock, indie, playlist, indie mix, indie songs, indie tracks, new indie, best new indie, best new indie songs, new indie songs, indie rock playlist, indie pop playlist, Papi Shiitake, Black Haus, Glitter Party, Shelly, Good Morning TV, C. James, Ruru, Andrey Azizov, Duncan Fellows, Sports, Golden Vessel, chemical club, Still Corners, Myd, Mac Demarco, Palo Sopraño, Melaina Kol, Small Crush",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=wojnldBSHzA",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Indie Playlist | Best of November 2020",
+            "name": "twitter:title"
+        },
+        {
+            "content": "A playlist featuring the best new indie songs from November 2020. Tracklist below ⬇𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 ➡️ https://www.youtube.com/channel/UCwLxgZHR8oDOzJXtXuS...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/wojnldBSHzA/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=wojnldBSHzA&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=wojnldBSHzA&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=wojnldBSHzA",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/wojnldBSHzA",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=wojnldBSHzA",
+            "property": "og:url"
+        },
+        {
+            "content": "Indie Playlist | Best of November 2020",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/wojnldBSHzA/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "A playlist featuring the best new indie songs from November 2020. Tracklist below ⬇𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲 ➡️ https://www.youtube.com/channel/UCwLxgZHR8oDOzJXtXuS...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=wojnldBSHzA&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=wojnldBSHzA&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=wojnldBSHzA&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/wojnldBSHzA",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/wojnldBSHzA",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "indie playlist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "fresh finds",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "spotify",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "november 2020",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie music",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie pop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "playlist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie mix",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie songs",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie tracks",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "new indie",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "best new indie",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "best new indie songs",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "new indie songs",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie rock playlist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "indie pop playlist",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Papi Shiitake",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Black Haus",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Glitter Party",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Shelly",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Good Morning TV",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "C. James",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Ruru",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Andrey Azizov",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Duncan Fellows",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Sports",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Golden Vessel",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "chemical club",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Still Corners",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Myd",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Mac Demarco",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Palo Sopraño",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Melaina Kol",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Small Crush",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        },
+        {
+            "content": "18+",
+            "property": "og:restrictions:age"
+        }
+    ]
+}

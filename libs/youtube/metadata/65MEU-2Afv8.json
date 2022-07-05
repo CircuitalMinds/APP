@@ -1,0 +1,400 @@
+{
+    "itemprop": [
+        {
+            "content": "Bee Gees - Will You Still Love Me Tomorrow",
+            "itemprop": "name"
+        },
+        {
+            "content": "A single released by The Bee Gees in 1995. October 31, 1995",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCtyGLsW87abAwOcj6H9RaiA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "65MEU-2Afv8",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT5M10S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "6366710",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2014-01-26",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2014-01-26",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Bee Gees - Will You Still Love Me Tomorrow",
+            "name": "title"
+        },
+        {
+            "content": "A single released by The Bee Gees in 1995. October 31, 1995",
+            "name": "description"
+        },
+        {
+            "content": "Bee Gees, Barry Gibb, Maurice Gibb, Robin Gibb, Andy Gibb, Brothers Gibb, Disco, Rock, Trio, Logun, Tentimes studio, Video studio, Recording Studio, Music Studio, Clips, Alan, Crompton, Ernest, Hugh, England, Manchester, Douglas, Isle Of Man, Isle Of Mahn, Redcliffe, Brisbane, Australia, Queensland, Rattlesnakes, Pop, Payne, Group, Band, Manx, Will You Still Love Me Tomorrow, 1995, October",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=65MEU-2Afv8",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Bee Gees - Will You Still Love Me Tomorrow",
+            "name": "twitter:title"
+        },
+        {
+            "content": "A single released by The Bee Gees in 1995. October 31, 1995",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/65MEU-2Afv8/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=65MEU-2Afv8&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=65MEU-2Afv8&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=65MEU-2Afv8",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/65MEU-2Afv8",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=65MEU-2Afv8",
+            "property": "og:url"
+        },
+        {
+            "content": "Bee Gees - Will You Still Love Me Tomorrow",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/65MEU-2Afv8/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "A single released by The Bee Gees in 1995. October 31, 1995",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=65MEU-2Afv8&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=65MEU-2Afv8&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=65MEU-2Afv8&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/65MEU-2Afv8",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/65MEU-2Afv8",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Bee Gees",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Barry Gibb",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Maurice Gibb",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Robin Gibb",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Andy Gibb",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Brothers Gibb",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Disco",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rock",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Trio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Logun",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Tentimes studio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Video studio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Recording Studio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Music Studio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Clips",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Alan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Crompton",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Ernest",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Hugh",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "England",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Manchester",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Douglas",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Isle Of Man",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Isle Of Mahn",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Redcliffe",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Brisbane",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Australia",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Queensland",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Rattlesnakes",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Pop",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Payne",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Group",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Band",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Manx",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Will You Still Love Me Tomorrow",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "1995",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "October",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}
