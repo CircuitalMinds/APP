@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+
+curl -X POST -H "Content-type: $datatype" -F "$k1=$v1&$k2=$v2" "$url"
+curl -X POST -H "Content-type: application/json" -d "{\"k1\" : \"v1\", \"k2\" : \"v2\"}" "url"

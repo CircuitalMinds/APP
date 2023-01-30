@@ -1,0 +1,7 @@
+EXECUTE=$"jupyter nbconvert --to notebook --execute NAME"
+CONVERT_HTML="cd PATH && jupyter nbconvert --to html FILENAME"
+ENTRYPOINT=$"/usr/local/bin/jupyter notebook --config=./conf/jupyter.py"
+BUILD_DOCKERFILE=$"docker build -t jupyternbs -f Dockerfile ."
+RUN_DOCKERFILE=$"docker run --env PORT=8888 -it -p 8888:8888 jupyternbs"
+PUSH_APP=$"heroku container:push web -a jupyternbs"
+RELEASE=$"heroku container:release web -a jupyternbs"

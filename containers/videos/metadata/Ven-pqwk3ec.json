@@ -1,8 +1,0 @@
-{
-    "description": "A quick tutorial on how to use selenium with the chromedriver in Python on the Heroku platform. Article version with code: https://www.andressevilla.com/runn...",
-    "duration": "6:25",
-    "image": "https://i.ytimg.com/vi/Ven-pqwk3ec/hqdefault.jpg",
-    "keywords": "chromedriver, selenium, python, heroku, buildpack, github, chromeoptions, headless",
-    "title": "Running ChromeDriver with Python Selenium on Heroku",
-    "url": "https://github.com/circuitalmynds/music_e/blob/main/videos/Running ChromeDriver with Python Selenium on Heroku-Ven-pqwk3ec.mp4?raw=true"
-}

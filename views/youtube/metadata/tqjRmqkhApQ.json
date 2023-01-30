@@ -1,0 +1,300 @@
+{
+    "itemprop": [
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKO - Album completo - Full Album",
+            "itemprop": "name"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKOSoberbia 0:00:00Mi curro 0:02:58Otra noche 0:06:15Odio obedecer 0:09:26Contento de ser así 0:12:27No, como Barby no!! 0:15:22En el bar...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCbkIiMKHf8sXV8XpTGCtWuQ",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "tqjRmqkhApQ",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT40M40S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "37228",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2019-10-03",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2019-10-03",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKO - Album completo - Full Album",
+            "name": "title"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKOSoberbia 0:00:00Mi curro 0:02:58Otra noche 0:06:15Odio obedecer 0:09:26Contento de ser así 0:12:27No, como Barby no!! 0:15:22En el bar...",
+            "name": "description"
+        },
+        {
+            "content": "EUSKAL, MUSIKA, KAOTIKO, MUNDO, SOBERBIA, ROCK, PUNK ROCK, OIHUKA, PUNK, NAFARROA, VASCO, HERRIA",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=tqjRmqkhApQ",
+            "name": "twitter:url"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKO - Album completo - Full Album",
+            "name": "twitter:title"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKOSoberbia 0:00:00Mi curro 0:02:58Otra noche 0:06:15Odio obedecer 0:09:26Contento de ser así 0:12:27No, como Barby no!! 0:15:22En el bar...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/tqjRmqkhApQ/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=tqjRmqkhApQ&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=tqjRmqkhApQ&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=tqjRmqkhApQ",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/tqjRmqkhApQ",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=tqjRmqkhApQ",
+            "property": "og:url"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKO - Album completo - Full Album",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/tqjRmqkhApQ/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "KAOTIKO - MUNDO KAOTIKOSoberbia 0:00:00Mi curro 0:02:58Otra noche 0:06:15Odio obedecer 0:09:26Contento de ser así 0:12:27No, como Barby no!! 0:15:22En el bar...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=tqjRmqkhApQ&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=tqjRmqkhApQ&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=tqjRmqkhApQ&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/tqjRmqkhApQ",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/tqjRmqkhApQ",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "EUSKAL",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "MUSIKA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "KAOTIKO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "MUNDO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "SOBERBIA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ROCK",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "PUNK ROCK",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "OIHUKA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "PUNK",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "NAFARROA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "VASCO",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "HERRIA",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

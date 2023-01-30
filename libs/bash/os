@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+
+
+
+BasePath=$HOME
+Opt=$1
+a1=$2; a2=$3; a3=$4;
+
+
+function File () {
+    cd $BasePath
+    if [[ $a1 == "-r" && -f $a2 ]]; then
+        cat $a2
+    elif [[ $a1 == "-w" ]]; then
+        echo "$a3" > "$a2"
+    elif [[ $a1 == "-rw" && $a3 != "" ]]; then     
+        echo -e "$( cat $a2 )\n$a3" > "$a2"
+    fi
+}
+
+function Dir () { 
+    cd $BasePath
+    if [[ $a1 == "-z" ]]; then
+        if [[ $a2 == "-w" && $a3 != "" && -d $a3 ]]; then
+            zip -r -s 5m $a3.zip $a3
+        elif [[ $a2 == "-r" && -f $a3 ]]; then
+            echo "n" | unzip $a3
+        fi
+    fi   
+}
+
+function Mount () {   
+    echo "$( cat $BasePath/login )" | sudo mount /dev/$a1 /media/alanmatzumiya
+}
+
+if [[ $Opt == "-f" ]]; then
+    (File)
+elif [[ $Opt == "-d" ]]; then
+    (Dir)
+fi

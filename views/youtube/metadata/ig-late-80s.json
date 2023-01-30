@@ -1,0 +1,22 @@
+{
+    "itemprop": [],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "",
+            "name": "title"
+        },
+        {
+            "content": "Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos, familiares y el resto del mundo en YouTube.",
+            "name": "description"
+        },
+        {
+            "content": "video, compartir, teléfono con cámara, teléfono con video, gratuito, subir",
+            "name": "keywords"
+        }
+    ],
+    "property": []
+}

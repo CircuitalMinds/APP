@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+Opt=$1
+
+if [[ $Opt == "app" || $Opt == "api" ]]; then    
+    BasePath=$HOME/$Opt
+    if [[ -d $BasePath && -f $BasePath/requirements.txt ]]; then
+        cd $BasePath
+        if ! [ -d $BasePath/venv ]; then
+            virtualenv venv
+        fi
+        source ./venv/bin/activate && pip install -r requirements.txt
+    fi
+fi

@@ -1,0 +1,304 @@
+{
+    "itemprop": [
+        {
+            "content": "Dvořák: Scherzo capriccioso, Op. 66, B.131",
+            "itemprop": "name"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDvořák: Scherzo capriccioso, Op. 66, B.131 · Berliner Philharmoniker · Herbert von Karajan · Antonín Dvořák · Ant...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCW084_r6OKr3YB9OWxydhHw",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "GIgbwUesBtc",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT13M13S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "960",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AE,AR,AT,AU,BA,BE,BG,BH,BM,BO,BR,BY,CA,CH,CL,CO,CR,CY,CZ,DE,DK,DO,DZ,EC,EE,EG,ES,FI,FR,GB,GR,GT,HK,HN,HR,HU,ID,IE,IL,IN,IS,IT,JO,JP,KE,KR,KW,KY,LB,LI,LT,LU,LV,MK,MT,MX,MY,NG,NI,NL,NO,NZ,OM,PA,PE,PG,PH,PL,PT,PY,QA,RO,RS,RU,SA,SE,SG,SI,SK,SV,TC,TH,TR,TW,UA,US,UY,VE,VN,ZA",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "2177",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2018-07-31",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Dvořák: Scherzo capriccioso, Op. 66, B.131",
+            "name": "title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDvořák: Scherzo capriccioso, Op. 66, B.131 · Berliner Philharmoniker · Herbert von Karajan · Antonín Dvořák · Ant...",
+            "name": "description"
+        },
+        {
+            "content": "Berliner Philharmoniker, ベルリンフィルハーモニーカンゲンガクダン, ベルリン・フィルハーモニー管弦楽団, 베를린 필하모닉, Herbert von Karajan, ヘルベルトフォンカラヤン, ヘルベルト・フォン・カラヤン, 卡拉杨, 卡拉楊, Antonín Dvořák, アントニンドヴォルザーク, アントニン・ドヴォルザーク, Brahms: 8 Hungarian Dances / Dvorák: 5 Slavonic Dances; Scherzo capriccioso",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=GIgbwUesBtc",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Dvořák: Scherzo capriccioso, Op. 66, B.131",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDvořák: Scherzo capriccioso, Op. 66, B.131 · Berliner Philharmoniker · Herbert von Karajan · Antonín Dvořák · Ant...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/GIgbwUesBtc/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=GIgbwUesBtc&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=GIgbwUesBtc&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=GIgbwUesBtc",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/GIgbwUesBtc",
+            "name": "twitter:player"
+        },
+        {
+            "content": "960",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=GIgbwUesBtc",
+            "property": "og:url"
+        },
+        {
+            "content": "Dvořák: Scherzo capriccioso, Op. 66, B.131",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/GIgbwUesBtc/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Provided to YouTube by Universal Music GroupDvořák: Scherzo capriccioso, Op. 66, B.131 · Berliner Philharmoniker · Herbert von Karajan · Antonín Dvořák · Ant...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=GIgbwUesBtc&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=GIgbwUesBtc&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=GIgbwUesBtc&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/GIgbwUesBtc",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/GIgbwUesBtc",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "960",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Berliner Philharmoniker",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ベルリンフィルハーモニーカンゲンガクダン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ベルリン・フィルハーモニー管弦楽団",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "베를린 필하모닉",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Herbert von Karajan",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ヘルベルトフォンカラヤン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "ヘルベルト・フォン・カラヤン",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "卡拉杨",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "卡拉楊",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Antonín Dvořák",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "アントニンドヴォルザーク",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "アントニン・ドヴォルザーク",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Brahms: 8 Hungarian Dances / Dvorák: 5 Slavonic Dances; Scherzo capriccioso",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

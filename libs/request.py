@@ -3,6 +3,16 @@ from requests import get, post
 from bs4 import BeautifulSoup
 
 
+def url_parse(url, path, **data):
+    q = join(url, path[1:] if path.startswith("/") else path)
+    if data:
+        return q + "?" + "&".join([
+            f"{k}={v}" for k, v in data.items()
+        ])
+    else:
+        return q
+
+
 class Http:
     data = dict()
 
@@ -10,14 +20,8 @@ class Http:
         self.url = url
 
     @staticmethod
-    def url_parse(url, path, **data):
-        q = join(url, path[1:] if path.startswith("/") else path)
-        if data:
-            return q + "?" + "&".join([
-                f"{k}={v}" for k, v in data.items()
-            ])
-        else:
-            return q
+    def is_html(data):
+        return type(data) == type(BeautifulSoup())
 
     def html_parser(self, path="/", **data):
         return BeautifulSoup(
@@ -25,7 +29,7 @@ class Http:
         )
 
     def get(self, path="/", datatype="", **data):
-        r = get(self.url_parse(self.url, path, **data))
+        r = get(url_parse(self.url, path, **data))
         if datatype == "json":
             return r.json()
         elif datatype == "text":
@@ -34,7 +38,7 @@ class Http:
             return r
 
     def post(self, path="/", datatype="", **data):
-        r = post(self.url_parse(self.url, path), data)
+        r = post(url_parse(self.url, path), data)
         if datatype == "json":
             return r.json()
         elif datatype == "text":

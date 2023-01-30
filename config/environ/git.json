@@ -1,0 +1,32 @@
+{
+    "url": "https://github.com",
+    "url-content": "https://raw.githubusercontent.com",
+    "admin": "alanmatzumiya",
+    "org": "CircuitalMinds",
+    "repos": [
+        {
+            "folder": "static",
+            "user": "CircuitalMinds",
+            "name": "static",
+            "branch": "main"
+        },
+        {
+            "folder": "templates",
+            "user": "CircuitalMinds",
+            "name": "templates",
+            "branch": "main"
+        },
+        {
+            "folder": "jupyter",
+            "user": "CircuitalMinds",
+            "name": "jupyter",
+            "branch": "main"
+        },
+        {
+            "folder": "dataset",
+            "user": "CircuitalMinds",
+            "name": "dataset",
+            "branch": "main"
+        }
+    ]
+}

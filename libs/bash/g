@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+function LogIn () {
+
+y=$( grep -m 1 git-toen "$HOME/credential" )
+if ! [[ $y == "" ]]; then
+    echo 1
+else
+    echo 0
+fi
+
+}
+
+(LogIn)

@@ -1,0 +1,14 @@
+{
+    "home": "/home/alanmatzumiya",
+    "githost": "https://circuitalminds.github.io",
+    "localhost": "http://192.168.50.100",
+    "herokuapp": "https://circuitalminds.herokuapp.com",
+    "git-container": {
+        "videos": "https://github.com/circuitalmynds",
+        "pictures": "https://github.com/alanmatzumiya"
+    },
+    "local-container": {
+        "videos": "/home/alanmatzumiya/Videos",
+        "pictures": "/home/alanmatzumiya/Pictures"
+    }
+}

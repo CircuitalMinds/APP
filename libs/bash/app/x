@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+
+a=$1
+b=$2
+
+Range () {
+  echo $( seq $a $b )
+}
+
+
+for i in $( ls ./ ); do
+    if [ -d $i ]; then    
+        echo -e "|_ $i:\n|\t_"
+        for j in $( ls $i ); do
+            echo -e "|\t|_ $j"
+        done    
+    else
+        echo "|_ $i"
+    fi
+done

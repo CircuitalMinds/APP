@@ -1,0 +1,252 @@
+{
+    "itemprop": [
+        {
+            "content": "BOGNA SOKORSKA  Czardasz - F.Grothe",
+            "itemprop": "name"
+        },
+        {
+            "content": "Orkiestra Polskiego Radia, dyr. Stefan Rachoń",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCZvHNf50vyc1PeWJowD5KGA",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "-boz_X-Zsak",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT6M3S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "1280",
+            "itemprop": "width"
+        },
+        {
+            "content": "720",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "11878",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2014-01-31",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2014-01-31",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Music",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "BOGNA SOKORSKA  Czardasz - F.Grothe",
+            "name": "title"
+        },
+        {
+            "content": "Orkiestra Polskiego Radia, dyr. Stefan Rachoń",
+            "name": "description"
+        },
+        {
+            "content": "video, compartir, teléfono con cámara, teléfono con video, gratuito, subir",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=-boz_X-Zsak",
+            "name": "twitter:url"
+        },
+        {
+            "content": "BOGNA SOKORSKA  Czardasz - F.Grothe",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Orkiestra Polskiego Radia, dyr. Stefan Rachoń",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/-boz_X-Zsak/maxresdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=-boz_X-Zsak&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=-boz_X-Zsak&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=-boz_X-Zsak",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/-boz_X-Zsak",
+            "name": "twitter:player"
+        },
+        {
+            "content": "1280",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "720",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=-boz_X-Zsak",
+            "property": "og:url"
+        },
+        {
+            "content": "BOGNA SOKORSKA  Czardasz - F.Grothe",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/-boz_X-Zsak/maxresdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "1280",
+            "property": "og:image:width"
+        },
+        {
+            "content": "720",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Orkiestra Polskiego Radia, dyr. Stefan Rachoń",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=-boz_X-Zsak&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=-boz_X-Zsak&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=-boz_X-Zsak&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/-boz_X-Zsak",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/-boz_X-Zsak",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "1280",
+            "property": "og:video:width"
+        },
+        {
+            "content": "720",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "itemprop": [
+        {
+            "content": "Viaje a la Luna (Georges Méliès) - Música original de Vicente Precio.",
+            "itemprop": "name"
+        },
+        {
+            "content": "Música original compuesta por Vicente Precio, inspirada en las imágenes del film de Georges Mélies \"Viaje a la luna\". Esta composición fue escrita para cuart...",
+            "itemprop": "description"
+        },
+        {
+            "content": "False",
+            "itemprop": "paid"
+        },
+        {
+            "content": "UCAePw4x53RFrJMJhcsdzSPg",
+            "itemprop": "channelId"
+        },
+        {
+            "content": "uXL3TnEUp9E",
+            "itemprop": "videoId"
+        },
+        {
+            "content": "PT13M8S",
+            "itemprop": "duration"
+        },
+        {
+            "content": "False",
+            "itemprop": "unlisted"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "HTML5 Flash",
+            "itemprop": "playerType"
+        },
+        {
+            "content": "480",
+            "itemprop": "width"
+        },
+        {
+            "content": "360",
+            "itemprop": "height"
+        },
+        {
+            "content": "true",
+            "itemprop": "isFamilyFriendly"
+        },
+        {
+            "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+            "itemprop": "regionsAllowed"
+        },
+        {
+            "content": "104566",
+            "itemprop": "interactionCount"
+        },
+        {
+            "content": "2013-10-26",
+            "itemprop": "datePublished"
+        },
+        {
+            "content": "2013-10-26",
+            "itemprop": "uploadDate"
+        },
+        {
+            "content": "Film & Animation",
+            "itemprop": "genre"
+        }
+    ],
+    "name": [
+        {
+            "content": "rgba(255, 255, 255, 0.98)",
+            "name": "theme-color"
+        },
+        {
+            "content": "Viaje a la Luna (Georges Méliès) - Música original de Vicente Precio.",
+            "name": "title"
+        },
+        {
+            "content": "Música original compuesta por Vicente Precio, inspirada en las imágenes del film de Georges Mélies \"Viaje a la luna\". Esta composición fue escrita para cuart...",
+            "name": "description"
+        },
+        {
+            "content": "Georges Méliès (Film Cinematographer), A Trip To The Moon (Film), vicente precio, elpsiconaufrago, música original, plan 9 producciones, composición original, viaje a la luna, Original, Acoustic, cine clásico, George Méliès, 1902, Viaje a la Luna",
+            "name": "keywords"
+        },
+        {
+            "content": "player",
+            "name": "twitter:card"
+        },
+        {
+            "content": "@youtube",
+            "name": "twitter:site"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uXL3TnEUp9E",
+            "name": "twitter:url"
+        },
+        {
+            "content": "Viaje a la Luna (Georges Méliès) - Música original de Vicente Precio.",
+            "name": "twitter:title"
+        },
+        {
+            "content": "Música original compuesta por Vicente Precio, inspirada en las imágenes del film de Georges Mélies \"Viaje a la luna\". Esta composición fue escrita para cuart...",
+            "name": "twitter:description"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/uXL3TnEUp9E/hqdefault.jpg",
+            "name": "twitter:image"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:iphone"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:iphone"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:ipad"
+        },
+        {
+            "content": "544007664",
+            "name": "twitter:app:id:ipad"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uXL3TnEUp9E&feature=applinks",
+            "name": "twitter:app:url:iphone"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uXL3TnEUp9E&feature=applinks",
+            "name": "twitter:app:url:ipad"
+        },
+        {
+            "content": "YouTube",
+            "name": "twitter:app:name:googleplay"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "name": "twitter:app:id:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uXL3TnEUp9E",
+            "name": "twitter:app:url:googleplay"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uXL3TnEUp9E",
+            "name": "twitter:player"
+        },
+        {
+            "content": "480",
+            "name": "twitter:player:width"
+        },
+        {
+            "content": "360",
+            "name": "twitter:player:height"
+        }
+    ],
+    "property": [
+        {
+            "content": "YouTube",
+            "property": "og:site_name"
+        },
+        {
+            "content": "https://www.youtube.com/watch?v=uXL3TnEUp9E",
+            "property": "og:url"
+        },
+        {
+            "content": "Viaje a la Luna (Georges Méliès) - Música original de Vicente Precio.",
+            "property": "og:title"
+        },
+        {
+            "content": "https://i.ytimg.com/vi/uXL3TnEUp9E/hqdefault.jpg",
+            "property": "og:image"
+        },
+        {
+            "content": "480",
+            "property": "og:image:width"
+        },
+        {
+            "content": "360",
+            "property": "og:image:height"
+        },
+        {
+            "content": "Música original compuesta por Vicente Precio, inspirada en las imágenes del film de Georges Mélies \"Viaje a la luna\". Esta composición fue escrita para cuart...",
+            "property": "og:description"
+        },
+        {
+            "content": "544007664",
+            "property": "al:ios:app_store_id"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:ios:app_name"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uXL3TnEUp9E&feature=applinks",
+            "property": "al:ios:url"
+        },
+        {
+            "content": "vnd.youtube://www.youtube.com/watch?v=uXL3TnEUp9E&feature=applinks",
+            "property": "al:android:url"
+        },
+        {
+            "content": "http://www.youtube.com/watch?v=uXL3TnEUp9E&feature=applinks",
+            "property": "al:web:url"
+        },
+        {
+            "content": "video.other",
+            "property": "og:type"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uXL3TnEUp9E",
+            "property": "og:video:url"
+        },
+        {
+            "content": "https://www.youtube.com/embed/uXL3TnEUp9E",
+            "property": "og:video:secure_url"
+        },
+        {
+            "content": "text/html",
+            "property": "og:video:type"
+        },
+        {
+            "content": "480",
+            "property": "og:video:width"
+        },
+        {
+            "content": "360",
+            "property": "og:video:height"
+        },
+        {
+            "content": "YouTube",
+            "property": "al:android:app_name"
+        },
+        {
+            "content": "com.google.android.youtube",
+            "property": "al:android:package"
+        },
+        {
+            "content": "Georges Méliès (Film Cinematographer)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "A Trip To The Moon (Film)",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "vicente precio",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "elpsiconaufrago",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "música original",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "plan 9 producciones",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "composición original",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "viaje a la luna",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Original",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Acoustic",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "cine clásico",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "George Méliès",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "1902",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "Viaje a la Luna",
+            "property": "og:video:tag"
+        },
+        {
+            "content": "87741124305",
+            "property": "fb:app_id"
+        }
+    ]
+}

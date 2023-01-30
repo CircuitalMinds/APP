@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-
-repo=$1
-folder=$2
-git clone $repo.git $folder

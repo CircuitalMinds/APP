@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+
+key=$1
+value=$2
+yturl="https://www.youtube.com"
+opts="-f mp4 --download-archive ids.txt
+--write-description
+--write-info-json
+--write-annotations
+--write-sub
+--write-thumbnail"
+
+echo  $key $value
+
+if [[ $key == "video_id" ]]; then
+  cd ./downloads && youtube-dl "$opts" "$yturl/watch?v=$value"
+elif [[ $key == "playlist_id" ]]; then
+  cd ./downloads && youtube-dl "$opts" "$yturl/playlist?list=$value"
+elif [[ $key == "video_title" ]]; then
+  cd ./downloads && youtube-dl $opts "ytsearch:$value"
+fi

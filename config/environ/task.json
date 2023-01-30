@@ -1,0 +1,44 @@
+{
+    "assignments" : [],
+    "scheme" : {
+        "args" : null,
+        "connected" : null,
+        "date" : null,
+        "id" : null,
+        "messages" : null,
+        "name" : null,
+        "processes" : null,
+        "role" : null,
+        "status" : null
+    },
+    "waiting" : false,
+    "data" : {
+        "a": 1,
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": "",
+        "f": "",
+        "g": "",
+        "h": "",
+        "i": "",
+        "j": "",
+        "k": "",
+        "l": "",
+        "m": "",
+        "n": "",
+        "o": "",
+        "p": "",
+        "q": "",
+        "r": "",
+        "s": "",
+        "t": "",
+        "u": "",
+        "v": "",
+        "w": "",
+        "x": "",
+        "y": "",
+        "z": ""
+    }
+}
+

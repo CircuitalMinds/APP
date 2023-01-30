@@ -1,36 +1,52 @@
-from flask import Flask
+# -*- coding: utf-8 -*-
+from werkzeug.exceptions import HTTPException
+from libs import root_path
+from libs.utils import getjson
+from flask import Flask, json
 from flask_cors import CORS
-from werkzeug.serving import run_simple
-from werkzeug.middleware.dispatcher import DispatcherMiddleware
-from conf import Cfg
+from views.main import main
+from views.dispatcher import dispatcher
+from views.container import container
 
 
-def create_app(name="app", env="development"):
-    cfg = Cfg(env)
-    app = Flask(name, **cfg.get("folders"))
-    app.env = cfg.get("env")
-    app.config.update(
-        cfg.get("config"),
-        **dict(server=cfg.get("server"))
+def getenv(name):
+    return getjson(root_path.joinpath(f"config/environ/{name}.json"))
+
+
+def getresponse(info, **params):
+    response = info.get_response()
+    response.data = json.dumps(
+        params if params else {
+            i: getattr(info, i, None)
+            for i in ("code", "name", "description")
+        }
     )
+    response.content_type = "application/json"
+    return response
+
+
+def create_app(name):
+    env = getenv("application")
+    app = Flask(
+        import_name=f"app-{name}",
+        static_folder=env["static_folder"],
+        template_folder=env["template_folder"]
+    )
+    app.config.update(env["config"], server=env["server"])
     CORS(app)
     return app
 
 
-class Server:
-    host: str
-    port: int
-    opts: dict
+app_server = create_app("server")
 
-    def __init__(self, app):
-        self.app = app
-        for k, v in self.app.config["server"].items():
-            setattr(self, k, v)
 
-    def run(self):
-        run_simple(
-            self.host,
-            self.port,
-            DispatcherMiddleware(self.app),
-            **self.opts
-        )
+@app_server.errorhandler(HTTPException)
+def handle_exception(error):
+    return getresponse(error)
+
+
+app_server.register_blueprint(main)
+app_server.register_blueprint(container)
+
+app_dispatcher = create_app("dispatcher")
+app_dispatcher.register_blueprint(dispatcher)
